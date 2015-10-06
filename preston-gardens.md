@@ -3,9 +3,7 @@ layout: page
 title: Preston Gardens
 permalink: /preston-gardens/
 ---
-<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
-This document is a **working draft**. Please contact [@elipousson](http://twitter.com/elipousson) with any questions, suggestions or other comments. I have flagged editorial comments throughout the piece and included a handful of additional comments and questions at the end of the piece.
-</div>
+**Note:** This document is a **working draft**. Please contact [@elipousson](http://twitter.com/elipousson) with any questions, suggestions or other comments. I have flagged editorial comments throughout the piece and included a handful of additional comments and questions at the end of the piece. -
 
 One of the significant challenges of our [Civil Rights heritage project][2] is tracing the history of places that no longer exist. Why are we researching the history of buildings that no longer stand? Why not focus exclusively on the many buildings (including many threatened buildings) that still exist?
 
@@ -15,9 +13,7 @@ There are several reasons:
 - Even when individual buildings are lost, related institutions such as churches or fraternal groups may still exist – making the history of the demolished building key to understanding the still extant resources
 - The importance of a broader public memory beyond extant resources to building support for the understanding and preservation of historic resources.
 
-<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
-Some readers may not be interested in this specific issue of the history and significance of nonextant resources—perhaps this should be split off from the main article.
-</div>
+**Note:** Some readers may not be interested in this specific issue of the history and significance of nonextant resources—perhaps this should be split off from the main article. -
 
 One example that stands out as a complex case study of how we research and interpret nonextant resources is a little-known black neighborhood just north of the Baltimore City Courthouse that was largely demolished for the construction of Preston Gardens in the 1910s. A handful of references in print and online have kept popular knowledge alive for this early incident of “urban renewal” as “negro removal” (borrowing from James Baldwin's 1963 phrasing).
 
@@ -33,9 +29,7 @@ Historian Lawrence H. Mamiya in “A Social History of the Bethel African Method
 
 ## 1837: Baltimore Quakers split from Lombard Street meeting to form a Baltimore Yearly Meeting on Courtland Street
 
-<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
-The details of this split and the location of the yearly meeting on Cortland Street are unclear—additional research or interpretation is required
-</div>
+**Note:** The details of this split and the location of the yearly meeting on Cortland Street are unclear—additional research or interpretation is required -
 
 > […]aware of the doctrines maintained by Elias Hicks and his followers and knowing the body in Lombard street to be identified with them refuse to hold any religious fellowship or correspondence with that body and formally recognize the Yearly Meeting held in Courtland street Baltimore as the Baltimore Yearly Meeting of the religious Society of Friends.[^2]
 
@@ -45,8 +39,7 @@ The 1885 _History of Baptist Churches in Maryland_  describes the history of the
 
 > This Church originated October 29 1848 with four members under the pastorship of Noah Davis who was called from Fredericksburg Va by the Board of the Association in 1847 as a missionary among the colored people of Baltimore They were obliged to worship in a hall up a flight of stairs and Bro Davis labored under many difficulties By 1854 he reported only nineteen members At that time the body was called the Second Colored Baptist Church On Feb 18 1855 a large and commodious chapel on the corner of Saratoga and Calvert streets erected by Bro Win Crane was occupied by this Church and its name changed accordingly The congregations at once increased four fold and the Church began to prosper By 1857 they reported seventy one members In 1861 they enjoyed a revival 70 were baptized and they reported one hundred and sixty seven members But quite a number of these were afterwards excluded so that in 1866 the membership had fallen to one hundred and forty eight In May of that year the Church though assisted liberally by Mr Crane and others found themselves unable to raise the amount necessary to pay for their building or the interest on the debt or even a small rent Becoming entirely hopeless of success they concluded to abandon the house Bro Davis became too feeble to preach and the Church gradually disbanded uniting with the Union Church as already stated Bro Davis died April 6 1867 lamented by many who knew his great worth as a Christian and a minister.[^3]
 
-<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”> The formatting/punctuation for the above passage needs to be corrected.
-</div>
+<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”> The formatting/punctuation for the above passage needs to be corrected. -
 
 ## c. 1865: Baltimore Normal School founded
 
@@ -121,9 +114,7 @@ Other violence could be found in northwest Baltimore, as the _Sun_ reported on N
 
 Dr. Young was an associate of Rev. Dr. Harvey Johnson and Rev. G.R. Waller.
 
-<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
-I’m having a difficult time identifying the location of Dr. Young's residence before he attempted to move to Myrtle Avenue in 1913. This example may also be too late chronologically to pair with the other two. This may be a good place for a map with a time slider (or an animation) to illustrate the movement of individuals and institutions from central/south Baltimore to northwest Baltimore.
-</div>
+**Note:** I’m having a difficult time identifying the location of Dr. Young's residence before he attempted to move to Myrtle Avenue in 1913. This example may also be too late chronologically to pair with the other two. This may be a good place for a map with a time slider (or an animation) to illustrate the movement of individuals and institutions from central/south Baltimore to northwest Baltimore. -
 
 ## 1904: Great Baltimore Fire burns downtown Baltimore
 
@@ -146,9 +137,7 @@ In 1909, Bethel AME Church was forced to move by post-1904 fire street widening 
 
 ## 1914: Widening of St. Paul Street debated, approved by City Council
 
-<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
-This next section is excerpted from a Maryland Inventory of Historic Places Form prepared Catherine Larson Farnham for John Milner Associates, Inc. The MIHP form on Preston Gardens was prepared on 2007 September 27 and revised on 2011 April 27.
-</div>
+**Note:** This next section is excerpted from a Maryland Inventory of Historic Places Form prepared Catherine Larson Farnham for John Milner Associates, Inc. The MIHP form on Preston Gardens was prepared on 2007 September 27 and revised on 2011 April 27. -
 
 The creation of Preston Gardens and St. Paul Place began in 1914 as a pet project of then-Mayor James H. Preston. Preston was an advocate for city beautification throughout his two mayoral terms (1911-1919). Other improvement projects he oversaw or initiated included the restoration of Mount Vernon Place, the construction of the War Memorial across from City Hall on Gay Street, and the underground diversion of the Jones Falls.
 
@@ -193,9 +182,7 @@ In contrast to the concern for lost landmarks in the _Afro-American_, the _Balti
 
 ## 1919 May 15: Preston Gardens dedicated
 
-<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
-Additional research is needed to locate and transcribe accounts of the dedication of Preston Gardens.
-</div>
+**Note:** Additional research is needed to locate and transcribe accounts of the dedication of Preston Gardens. -
 
 Catherine Larson Farnham described the original form of the park in 1919 for the Preston Gardens inventory form:
 
@@ -220,9 +207,7 @@ The same _Sun_ account described the impact of the Bath Street Viaduct/Orleans S
 
 Catherine Larson Farnham described the changes to the park in this period for the Preston Gardens inventory form:
 
-<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
-I have not formatted this as a block quote due to the length of this excerpt. Additional research on the later changes to the park is still required.
-</div>
+**Note:** I have not formatted this as a block quote due to the length of this excerpt. Additional research on the later changes to the park is still required. -
 
 Numerous changes have occurred to the park over the years. Ironically, though the park had its genesis as a traffic solution, ever increasing automobile traffic has resulted in the loss of considerable Preston Gardens park space to accommodate road expansions and traffic control measures. Construction of the elevated Orleans Street Viaduct across the park in ca. 1935 created a new gateway to the downtown, but effectively separated the greenspace areas to the north and south of Orleans Street. The separation is both visual and physical: the elevated roadway forms a solid one-story wall that prevents visual contact between the two main sectors, and original pedestrian pathways toward the Orleans Street crossing were blocked off without provision of a pedestrian tunnel or path linking both sides. To reach one side of the park from the other today, one must either descend to and cross over to the far side of northbound St. Paul Street to use a sidewalk through the northbound lane tunnel under the viaduct, then cross back to re-enter the park on the other side, or ascend to the southbound elevation and cross the fast-moving traffic from Mulberry onto the viaduct and exit the viaduct onto Franklin. Further widening of St. Paul Street concurrent with the viaduct construction consumed much of the original exterior park space, notably the medians on the southbound side, which are now reduced to narrow strips. To their credit, the designers did integrate the viaduct and the widened southbound St. Paul Street with consistent, curved brick retaining walls, which are of high quality and sympathetic to the formal staircases. Light Street was later extended through one of the original islands on the south end of the park between Saratoga Street and Lexington Street, creating the present triangular islands separated by a wide cut-through, and isolating the park space from the courthouse to the south.
 
