@@ -3,20 +3,21 @@ layout: page
 title: Preston Gardens
 permalink: /preston-gardens/
 ---
-\<div class=“p2 navy bg-aqua”\>
-This document is a **working draft**. Please contact [@elipousson]() with any questions, suggestions or other comments. I have flagged editorial comments throughout the piece and included a handful of additional comments and questions at the end of the piece.
-\</div\>
+<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
+This document is a **working draft**. Please contact [@elipousson](http://twitter.com/elipousson) with any questions, suggestions or other comments. I have flagged editorial comments throughout the piece and included a handful of additional comments and questions at the end of the piece.
+</div>
 
 One of the significant challenges of our [Civil Rights heritage project][2] is tracing the history of places that no longer exist. Why are we researching the history of buildings that no longer stand? Why not focus exclusively on the many buildings (including many threatened buildings) that still exist?
 
 There are several reasons:
+
 - Depending on how the resource was demolished, it can be difficult to tell whether any related resource may still survive.
 - Even when individual buildings are lost, related institutions such as churches or fraternal groups may still exist – making the history of the demolished building key to understanding the still extant resources
 - The importance of a broader public memory beyond extant resources to building support for the understanding and preservation of historic resources.
 
-\<div class=“p2 navy bg-aqua”\>
+<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
 Some readers may not be interested in this specific issue of the history and significance of nonextant resources—perhaps this should be split off from the main article.
-\</div\>
+</div>
 
 One example that stands out as a complex case study of how we research and interpret nonextant resources is a little-known black neighborhood just north of the Baltimore City Courthouse that was largely demolished for the construction of Preston Gardens in the 1910s. A handful of references in print and online have kept popular knowledge alive for this early incident of “urban renewal” as “negro removal” (borrowing from James Baldwin's 1963 phrasing).
 
@@ -32,9 +33,9 @@ Historian Lawrence H. Mamiya in “A Social History of the Bethel African Method
 
 ## 1837: Baltimore Quakers split from Lombard Street meeting to form a Baltimore Yearly Meeting on Courtland Street
 
-\<div class=“p2 navy bg-aqua”\>
+<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
 The details of this split and the location of the yearly meeting on Cortland Street are unclear—additional research or interpretation is required
-\</div\>
+</div>
 
 > […]aware of the doctrines maintained by Elias Hicks and his followers and knowing the body in Lombard street to be identified with them refuse to hold any religious fellowship or correspondence with that body and formally recognize the Yearly Meeting held in Courtland street Baltimore as the Baltimore Yearly Meeting of the religious Society of Friends.[^2]
 
@@ -44,8 +45,8 @@ The 1885 _History of Baptist Churches in Maryland_  describes the history of the
 
 > This Church originated October 29 1848 with four members under the pastorship of Noah Davis who was called from Fredericksburg Va by the Board of the Association in 1847 as a missionary among the colored people of Baltimore They were obliged to worship in a hall up a flight of stairs and Bro Davis labored under many difficulties By 1854 he reported only nineteen members At that time the body was called the Second Colored Baptist Church On Feb 18 1855 a large and commodious chapel on the corner of Saratoga and Calvert streets erected by Bro Win Crane was occupied by this Church and its name changed accordingly The congregations at once increased four fold and the Church began to prosper By 1857 they reported seventy one members In 1861 they enjoyed a revival 70 were baptized and they reported one hundred and sixty seven members But quite a number of these were afterwards excluded so that in 1866 the membership had fallen to one hundred and forty eight In May of that year the Church though assisted liberally by Mr Crane and others found themselves unable to raise the amount necessary to pay for their building or the interest on the debt or even a small rent Becoming entirely hopeless of success they concluded to abandon the house Bro Davis became too feeble to preach and the Church gradually disbanded uniting with the Union Church as already stated Bro Davis died April 6 1867 lamented by many who knew his great worth as a Christian and a minister.[^3]
 
-\<div class=“p2 navy bg-aqua”\> The formatting/punctuation for the above passage needs to be corrected.
-\</div\>
+<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”> The formatting/punctuation for the above passage needs to be corrected.
+</div>
 
 ## c. 1865: Baltimore Normal School founded
 
@@ -76,7 +77,7 @@ Coppin was unsuccessful in encouraging the congregation to consider a move but B
 As early as 1892, Baltimore City officials began to consider the possibility of widening St. Paul Street, as the _Sun_ reported on March 22:
 
 > An ordinance was reported by Mr. Doyle, from the highways committee. To widen St. Paul street, from Lexington street to Dark lane. It was made a special order for next Monday. Mr. Guyton opposed it on the score of expense. Mr. Berry estimated the cost at $80,000,. Mr. Leonard said that the street will become a driving thoroughfare, and that now is the time to widen it before expensive buildings are put up.[^7]
- 
+
 The growing mobility of Baltimore’s population as automobiles and electric streetcars replaced an early generation of horse-drawn omnibus lines opened up new possibilities for residents both white and black. 1892 is the same year that Sharp Street Church moved from its South Baltimore location (where it had stood since the early 1800s ) up to Dolphin Street. The church likely followed some of its members and led others to move. Other streets in the vicinity of downtown Baltimore also saw proposals to widen, such as a debate over Eutaw Street in 1893:
 
 > [unreadable text] Eugene Levering, Geo. T. Gambrill, Wm. P. Clotworthy, John E. Hurst and John Glenn, who are urging that Eutaw street be widened between Biddle and Preston streets, will send a letter to the City Council committee on highways in answer to a protest which has been issued against the widening.[^8]  
@@ -85,7 +86,7 @@ Thirty years later, the Afro-American looked back on the changing composition of
 
 > The Baltimores' "Who's Who" has been constantly moving northwest in the city during the last 25 years, is revealed by a glance at old files which show the addresses of many families in the bygone days.
 > Although a few prominent families still live in the South and Northeast Baltimore, the bulk of the population now resides in that section of the city known as Northwest Baltimore. […]
-> Oxford and Orchard streets once housed many of Baltimore's [colored four hundred][3]. Even Sara Ann street, now one of the most dilapidated and one of the worst streets in the entire city, once boasted the names of now prominent families. From down in south and northeast Baltimore, however, have come most of the prominent families now in the northwest section.  […] 
+> Oxford and Orchard streets once housed many of Baltimore's [colored four hundred][3]. Even Sara Ann street, now one of the most dilapidated and one of the worst streets in the entire city, once boasted the names of now prominent families. From down in south and northeast Baltimore, however, have come most of the prominent families now in the northwest section.  […]
 > Even the aristocratic St. Paul street section once knew prominent residents of the race. John Henry Smith lived for some time at 517 St. Paul street, and this was the childhood home of his daughter who is now Mrs. Amie Williams. In this same block also lived the McCabbs, Jakes, the Browns, the Sykes and James Harris, caterer. This block was sandwiched in between some of the wealthiest white families in the city. Here also Mrs. Elizabeth Sykes conducted a school to which many prominent persons went.
 > Eighteen years ago [1908] Mrs. Williams moved from St. Paul street home to Druid Hill avenue, where she resided for five years, and then moved into the 500 block of Dolphin street.
 > Seventy years ago [1856] John A. Conkley's home was on Sharp street, between Baltimore street and Redwood, formerly German street, where he had a cabinet store and made fancy furniture. He was burnt out and afterwards moved to German street near Fremont avenue, around the St. Paul burial ground. His was the only colored family residing in either of these sections. Later, the Conkley family moved on St. Paul street, then on Richmond, between Park avenue, and Cathedral.
@@ -93,7 +94,7 @@ Thirty years later, the Afro-American looked back on the changing composition of
 
 The account continues identifying the move of several prominent black physicians, including Dr. Harry Brown, Dr. Edward J. Wheatley, Dr. Fowler, and Dr. Nelson Moquette, from downtown to northeast Baltimore in this period. [^9]
 
-In 1898, the Ledger (a paper that later merged with the Afro) moved from 1605 McElderry Street to Courtland Street between Saratoga and Lexington Streets.[^10] 
+In 1898, the Ledger (a paper that later merged with the Afro) moved from 1605 McElderry Street to Courtland Street between Saratoga and Lexington Streets.[^10]
 
 The Afro moved in August 1899 to 307 St. Paul Street into a building they described as "more favorable and inviting than before.”[^11] Other neighborhood institutions included the Maryland Home for Friendless Colored Children.
 
@@ -103,7 +104,6 @@ Why did African-Americans move to northwest Baltimore? Some had been displaced i
 
 On November 7, 1903 the _Afro-American_  reported on an incident of “mob violence” leading:
 > A TASTE OF MOB VIOLENCE: IS THIS WHAT WE ARE TO GET UNDER THE NEW DEMOCRATIC ADMINISTRATION?" / The Fight That The Democrats Made Under The Head of "Negro Domination" Bearing Fruit / The Temple on Courtland Street Stoned By A Mob Of White Boys And Men / Members Going Into The Building Are Greeted With Stones, Tin Cans and of "Nigger." / Policeman In Hurry To Get To The Place.
-
 > One of the most disgraceful things seen in this city since the days of "Plug Uglyism" was the stoning of the Masonic Temple of Courtland street, on Tuesday night. A large bon-fire had been built on the corner of Pleasant and Courtland streets, and there were a howling mob of boys and men surrounding it. They were having their own fun and piling high dry goods boxes and other material on the fire, when it occurred to some of them that they might get a little more fun out of the situation. Members of one of the Lodges commenced to make their appearance on the scene making their way to the Temple. Several stones were thrown, but as they hit no one no attention was paid to it, little thinking what was to be outcome. Not meeting with any resistance, about nine o'clock, while the members were quietly engaged with their business, they were startled by a crash of broken glass, quickly followed by another and another. […]
 > Several of the members hurried to the Central Police Station and demanded protection. There were but few policemen present, and those in authority told the men to go back to their hall and protection would be sent them. After persistent effort, a single policeman was sent with the men, and he took his time in getting up to the place, saying: "I have been on my feet all day and I am tired, and don't feel like being bothered." The men urged haste, but he simply declined to do any hurrying. When he arrived on the scene, the mob was pretty well scattered, fearing the vengeance of the colored men who were standing around their hall.
 > They finally went back to their business and there was no more trouble. The persistent fight that has been made on the Negro during the past few weeks have emboldened the white toughs, and the Negro has trouble coming to him. Several of the teachers of the public schools have been compelled to complain to the School Board of the trouble they are having with the white boys in the neighborhood of their schools. The School Board has taken the matter under consideration.
@@ -117,13 +117,13 @@ Around 1904, African-Americans attempting to move into Locust Point met with sim
 Other violence could be found in northwest Baltimore, as the _Sun_ reported on November 30, 1913:
 
 > Captain Henry, of the Northwestern district, last night detailed a squad of policemen in the neighborhood of the 1100 block of Myrtle avenue to prevent further stoning of a house at 1117 Myrtle avenue, which on Friday was purchased by H.E. Young, a colored pharmacist.
-> Friday night the front and rear windows were broken by a fusillade of stones, but when the police arrived the attacking party had disappeared. It is said that the police learned the identify of several young white men and that arrests will be made today.[^14] 
+> Friday night the front and rear windows were broken by a fusillade of stones, but when the police arrived the attacking party had disappeared. It is said that the police learned the identify of several young white men and that arrests will be made today.[^14]
 
-Dr. Young was an associate of Rev. Dr. Harvey Johnson and Rev. G.R. Waller
+Dr. Young was an associate of Rev. Dr. Harvey Johnson and Rev. G.R. Waller.
 
-\<div class=“p2 navy bg-aqua”\>
+<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
 I’m having a difficult time identifying the location of Dr. Young's residence before he attempted to move to Myrtle Avenue in 1913. This example may also be too late chronologically to pair with the other two. This may be a good place for a map with a time slider (or an animation) to illustrate the movement of individuals and institutions from central/south Baltimore to northwest Baltimore.
-\</div\>
+</div>
 
 ## 1904: Great Baltimore Fire burns downtown Baltimore
 
@@ -146,13 +146,13 @@ In 1909, Bethel AME Church was forced to move by post-1904 fire street widening 
 
 ## 1914: Widening of St. Paul Street debated, approved by City Council
 
-\<div class=“p2 navy bg-aqua”\>
+<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
 This next section is excerpted from a Maryland Inventory of Historic Places Form prepared Catherine Larson Farnham for John Milner Associates, Inc. The MIHP form on Preston Gardens was prepared on 2007 September 27 and revised on 2011 April 27.
-\</div\>
+</div>
 
-The creation of Preston Gardens and St. Paul Place began in 1914 as a pet project of then-Mayor James H. Preston. Preston was an advocate for city beautification throughout his two mayoral terms (1911-1919). Other improvement projects he oversaw or initiated included the restoration of Mount Vernon Place, the construction of the War Memorial across from City Hall on Gay Street, and the underground diversion of the Jones Falls. 
+The creation of Preston Gardens and St. Paul Place began in 1914 as a pet project of then-Mayor James H. Preston. Preston was an advocate for city beautification throughout his two mayoral terms (1911-1919). Other improvement projects he oversaw or initiated included the restoration of Mount Vernon Place, the construction of the War Memorial across from City Hall on Gay Street, and the underground diversion of the Jones Falls.
 
-An ordinance passed in 1914 authorized the city to condemn and acquire the buildings and lots that stood in the way of what would become Preston Gardens. Removing what he considered to be blighted buildings, Preston hoped future tax income from increased property values around the downtown park would defray the cost of the improvements. The use of loan money designated for harbor improvements and his persistent championing of the St. Paul widening despite its costs caused the project to be dubbed "Preston's Folly." The project eventually proved successful, as sale prices in the area doubled, and in some cases tripled, following the opening of the new park. 
+An ordinance passed in 1914 authorized the city to condemn and acquire the buildings and lots that stood in the way of what would become Preston Gardens. Removing what he considered to be blighted buildings, Preston hoped future tax income from increased property values around the downtown park would defray the cost of the improvements. The use of loan money designated for harbor improvements and his persistent championing of the St. Paul widening despite its costs caused the project to be dubbed "Preston's Folly." The project eventually proved successful, as sale prices in the area doubled, and in some cases tripled, following the opening of the new park.
 
 The city hired Thomas Hastings to design the park. His design reflected aspects of both Beaux-Arts and City Beautiful aesthetics. St. Paul Street was widened between Lexington and Hamilton Streets, and five blocks of row housing were demolished to create St. Paul Place with a park space in the middle.
 
@@ -170,7 +170,7 @@ Although some long-time residents of the area had left, many remained up until t
 
 - Lawyer James Henry Hammond - 510 St. Paul Street (Home); 217 Courtland Street (Office)
 - Lawyer and City Councilman Harry Sythe Cummings - 1318 Druid Hill Avenue (Home); 219 Courtland Street (Office)
-- [Look for the directory for the third reference] 
+- [Look for the directory for the third reference]
 
 ## 1917: Demolition begins on St. Paul Street
 
@@ -183,7 +183,7 @@ On June 23, 1917, the _Afro-American_ reported on the “Passing of Former Arist
 > A walk up Courtland street will show the Masonic Temple in the same old quarters of many years ago, Bethel A.M.E. Church, Union Baptist Church and the great majority of the Odd Fellows have secured homes up town, but the Masons and the Nazarites are still landmarks in the downtown section. It may be said for the Nazarites, however, that they have a modern building and are located at the juncture of several car lines.[^20]
 
 Funding for the additional development of St. Paul Street beyond the initial demolition came from a $3,000,000 bond issue that the Mayor planned to present to Baltimore voters in November 1917. The funding linked the St. Paul Street plan to the proposed “Civic Centre” that cleared the way for War Memorial Plaza in front of City Hall and several other small parks recommended by Baltimore Health Commissioner John D. Blake for "sections in which the department had grouped the largest number of cases of tuberculosis.” In their August 9, 1917 report the _Sun_ noted:
- 
+
 > The plan is to use the proceeds of the loan in eliminating plague spots and improving health conditions in the city, as well as for building the civic centre and widening and parking St. Paul street from Centre street to the Courthouse. It has been under consideration at the City Hall for some time, and was the subject of exhaustive investigation by the Mayor's Committee on Housing Conditions, which has recommended an amendment to the Building Code that will meet the situation.[^21]  
 
 In contrast to the concern for lost landmarks in the _Afro-American_, the _Baltimore Sun_ responded to the demolition with excitement and approval for the planned “improvements” and the only mention of the area’s history tied to an earlier generation of white residents, writing on February 20, 1918:
@@ -193,9 +193,9 @@ In contrast to the concern for lost landmarks in the _Afro-American_, the _Balti
 
 ## 1919 May 15: Preston Gardens dedicated
 
-\<div class=“p2 navy bg-aqua”\>
-Additional research is needed to locate and transcribe accounts of the dedication of Preston Gardens. 
-\</div\>
+<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
+Additional research is needed to locate and transcribe accounts of the dedication of Preston Gardens.
+</div>
 
 Catherine Larson Farnham described the original form of the park in 1919 for the Preston Gardens inventory form:
 
@@ -207,7 +207,7 @@ Later, in 1926, the _Afro-American_ recalled:
 
 # 1935: WPA funding supports extension of Howard Street, Bath Street viaduct
 
-In the 1930s, long-delayed plans for the extension of Howard Street to the north followed the example of Preston Gardens in clearing blocks of African-American occupied housing to create an easier route for suburban commuters, as the _Sun_ reported on March 17, 1935: 
+In the 1930s, long-delayed plans for the extension of Howard Street to the north followed the example of Preston Gardens in clearing blocks of African-American occupied housing to create an easier route for suburban commuters, as the _Sun_ reported on March 17, 1935:
 
 > Under the plans for the Howard street extension now awaiting approval of the City Council, an entirely new traffic artery soon will be pushed northward from the Richmond Market. Turning neither right nor left, it will follow an air line toward North avenue. Whole blocks will fall before it as it strikes diagonally from intersection to intersection through the off-kilter street plan of the area it will traverse. A plaza will open up to the south of the Fifth Regiment Armory. Churches, school, garages, homes of all kinds, a laundry, a transformer house and a little-used railroad station will disappear before the onward march. [...]
 > Once the City Council has given its approval, the project will be in the hands of the Commissioner for Opening Streets and the owners of the 150-odd pieces of property which must be purchased to complete the plan. At the outside, it is expected that some eight months will be required to complete these negotiations and acquire the titles, but the work will not have to await the signature of the last recalcitrant property owner.
@@ -220,9 +220,9 @@ The same _Sun_ account described the impact of the Bath Street Viaduct/Orleans S
 
 Catherine Larson Farnham described the changes to the park in this period for the Preston Gardens inventory form:
 
-\<div class=“p2 navy bg-aqua”\>
+<div class=“p2 mb2 mb2 lighter-gray bg-dark-gray”>
 I have not formatted this as a block quote due to the length of this excerpt. Additional research on the later changes to the park is still required.
-\</div\>
+</div>
 
 Numerous changes have occurred to the park over the years. Ironically, though the park had its genesis as a traffic solution, ever increasing automobile traffic has resulted in the loss of considerable Preston Gardens park space to accommodate road expansions and traffic control measures. Construction of the elevated Orleans Street Viaduct across the park in ca. 1935 created a new gateway to the downtown, but effectively separated the greenspace areas to the north and south of Orleans Street. The separation is both visual and physical: the elevated roadway forms a solid one-story wall that prevents visual contact between the two main sectors, and original pedestrian pathways toward the Orleans Street crossing were blocked off without provision of a pedestrian tunnel or path linking both sides. To reach one side of the park from the other today, one must either descend to and cross over to the far side of northbound St. Paul Street to use a sidewalk through the northbound lane tunnel under the viaduct, then cross back to re-enter the park on the other side, or ascend to the southbound elevation and cross the fast-moving traffic from Mulberry onto the viaduct and exit the viaduct onto Franklin. Further widening of St. Paul Street concurrent with the viaduct construction consumed much of the original exterior park space, notably the medians on the southbound side, which are now reduced to narrow strips. To their credit, the designers did integrate the viaduct and the widened southbound St. Paul Street with consistent, curved brick retaining walls, which are of high quality and sympathetic to the formal staircases. Light Street was later extended through one of the original islands on the south end of the park between Saratoga Street and Lexington Street, creating the present triangular islands separated by a wide cut-through, and isolating the park space from the courthouse to the south.
 
@@ -274,7 +274,7 @@ Col. Sherlock Swann (see this [Maryland Historical Society Collection][4] for mo
 
 [^16]:	_favors_1909; See also _major_1907 for more on Clotworthy’s opposition to black participation in local and state politics.
 
-[^17]:	.
+[^17]:	mamiya_social_1994
 
 [^18]:	_who_1915
 
