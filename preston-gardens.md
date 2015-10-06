@@ -231,11 +231,13 @@ As previously mentioned, the John Mifflin Hood statue was relocated to the main 
 ## Research & Editorial Notes
 
 **What does Preston Gardens have to do with segregation?**
+
 There is an opportunity to explain how segregation emerged in late 19th and early 20th century Baltimore in a white supremacist culture that encouraged anxiety over interracial contact as a risk to health and safety. One example of “threatening” interracial contact is a well-publicized incident of a black teenager entering City Hall this incident involving man at City Hall in 1907:
 
 > Declaring, that he was the champion of the colored race and the owner of the City Hall, Isaiah Lampsoo, a negro youth, burst open the door of Mayor Mahool’s office shortly after 9 o'clock yesterday morning, stole the Mayor's mall and ran away. It was the second trip of the negro to Mayor Mahool’s office and the police soon…[^26]
 
-**How did Baltimore City use condemnation laws to take properties? **
+**How did Baltimore City use condemnation laws to take properties?**
+
 Another important theme that could be drawn out is how the city used condemnation to make the large-scale clearance for Preston Gardens possible and what the economic consequences of this clearance were on Baltimore’s African-American community.
 
 **What is the role of Colonel Sherlock Swann?**
