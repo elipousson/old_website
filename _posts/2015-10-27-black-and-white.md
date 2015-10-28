@@ -1,6 +1,12 @@
 ---
+layout:     post
+title:      "Historical memory... the prize in a struggle between rival versions of the past"
+date:       2015-10-27
+summary:    Notes from reading Memory in Black and White (2003) by Paul A. Shackel.
+categories: notes
 published: true
 ---
+
 
 ## Reading Memory in Black and White
  
