@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Reading Memory in Black and White
