@@ -3,7 +3,7 @@ layout:     post
 title:      Explaining Baltimore's vacant houses with data visualizations
 date:       2015-11-10
 summary:    How I am using data visualization tools to understand and explain the social, economic and political context for Baltimore's problems with vacant housing.
-categories: resources,vacantvernacular
+categories: resources
 published: true
 ---
 
