@@ -47,25 +47,6 @@
       <div class="temp-loading">Loading...</div>
     </div>
 
-    <div class="section-ban section-ban-last">
-      <div class="section-wrapper">
-        <div class="example-html-output">
-          <p>HTML used in this example.  Note that the inner loading <code>&lt;div&gt;</code> is not necessary but a nice note while things are loading.</p>
-          <pre><code class="html"></code></pre>
-        </div>
-
-        <div class="code-output example-css-output">
-          <p>CSS used in this example.</p>
-          <pre><code class="css"></code></pre>
-        </div>
-
-        <div class="code-output example-javascript-output">
-          <p>Javascript used in this example:</p>
-          <pre><code class="js"></code></pre>
-        </div>
-      </div>
-    </div>
-
     <!-- Dependencies -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
@@ -84,7 +65,7 @@
     <!-- Make examples -->
     <script id="example-javascript">
       // Get data from EditData (via Github).
-      var url = 'https://raw.githubusercontent.com/datanews/tik-tok/master/examples/example-editdata.json';
+      var url = 'https://raw.githubusercontent.com/elipousson/elipousson.github.io/master/timeline/timeline-data.json';
       $.getJSON(url, function(data) {
         var tikTok = new TikTok({
           el: '#tik-tok-editdata',
