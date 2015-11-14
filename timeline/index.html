@@ -1,0 +1,107 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Timeline | Eli Pousson</title>
+    <meta name="description" content="A timeline made with Tik Tok." />
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@elipousson">
+    <meta name="twitter:title" content="Timeline | Eli Pousson">
+    <meta name="twitter:description" content="A timeline made with Tik Tok.">
+    <meta name="twitter:creator" content="@elipousson">
+    <meta name="twitter:image" content="https://datanews.github.io/tik-tok/examples/images/tik-tok-head-250.png">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Timeline | Eli Pousson">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://elipousson.github.io/timeline/">
+    <meta property="og:image" content="https://datanews.github.io/tik-tok/examples/images/tik-tok-head-250.png">
+    <meta property="og:description" content="A timeline made with Tik Tok.">
+    <meta property="og:site_name" content="Tik Tok">
+
+    <!-- Lato font -->
+    <link href="https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+    <!-- Demo/dev dependencies -->
+    <link rel="stylesheet" href="../bower_components/highlightjs/styles/github.css">
+
+    <!-- Main library CSS -->
+    <link href="https://cdn.rawgit.com/datanews/tik-tok/0.1.1/dist/tik-tok.min.css" rel="stylesheet" type="text/css">
+
+
+    <!-- General example stylesheet -->
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/datanews/tik-tok/master/examples/examples.css">
+
+    <!-- Example CSS -->
+    <style media="screen" type="text/css" id="example-css">
+    </style>
+  </head>
+  <body>
+
+    <div class="section-ban menu">
+      <div class="section-wrapper">
+        <ul>
+          <li><a href="../"><img src="./images/tik-tok-head-right-grey-100.png"></a></li>
+          <li><a href="./">Examples</a></li>
+          <li><a href="https://github.com/datanews/tik-tok" target="_blank">Github</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div id="tik-tok-editdata" class="example-html">
+      <div class="temp-loading">Loading...</div>
+    </div>
+
+    <div class="section-ban section-ban-last">
+      <div class="section-wrapper">
+        <div class="example-html-output">
+          <p>HTML used in this example.  Note that the inner loading <code>&lt;div&gt;</code> is not necessary but a nice note while things are loading.</p>
+          <pre><code class="html"></code></pre>
+        </div>
+
+        <div class="code-output example-css-output">
+          <p>CSS used in this example.</p>
+          <pre><code class="css"></code></pre>
+        </div>
+
+        <div class="code-output example-javascript-output">
+          <p>Javascript used in this example:</p>
+          <pre><code class="js"></code></pre>
+        </div>
+      </div>
+    </div>
+
+    <!-- Dependencies -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
+
+    <!-- Demo/dev dependencies -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/highlight.min.js"></script>
+    <script src="https://cdn.rawgit.com/mikeflynn/egg.js/master/egg.min.js"></script>
+
+    <!-- Main library JS -->
+    <script src="https://cdn.rawgit.com/datanews/tik-tok/0.1.1/dist/tik-tok.min.js"></script>
+
+    <!-- General example JS -->
+    <script src="examples.js"></script>
+
+    <!-- Make examples -->
+    <script id="example-javascript">
+      // Get data from EditData (via Github).
+      var url = 'https://raw.githubusercontent.com/datanews/tik-tok/master/examples/example-editdata.json';
+      $.getJSON(url, function(data) {
+        var tikTok = new TikTok({
+          el: '#tik-tok-editdata',
+          title: 'EditData.org example',
+          entries: data
+        });
+      });
+    </script>
+  </body>
+</html>
