@@ -17,3 +17,5 @@ I am working on [an advocacy guide for Baltimore Heritage](https://github.com/ba
 >Designating a building or site as a local landmark is one way to recognize and protect a historic resource. It is a proactive tool, and often something that owners and members of the public can do before a property is threatened. 
 
 [Preservation Pennsylvania: The Crisis Handbook:A Guide to Community Action](http://www.preservationpa.org/page.asp?id=30)
+
+[Preservation Pennsylvania: How To Protect and Preserve the Historic Places That Matter to You](http://www.preservationpa.org/page.asp?id=54)
