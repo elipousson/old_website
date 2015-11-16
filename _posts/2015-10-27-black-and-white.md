@@ -79,8 +79,7 @@ Shackel notes with the rise of the Lost Cause ideology (and support from Theodor
 | 1900-1912 | 60% of all Confederate monuments before 1913 are erected in this period; only 25% used funerary design; 80% depict a lone Confederate soldier; 85% located in public areas |
 
 (pp. 24, 36-37, 39)
- 
----
+
 # Applied Approaches to Challenging the Official History
 
 Strategies that different organizations have implemented to establish alternative or multivocal histories at sacred places.
