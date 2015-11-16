@@ -80,3 +80,61 @@ Shackel notes with the rise of the Lost Cause ideology (and support from Theodor
 
 (pp. 24, 36-37, 39)
  
+---
+# Applied Approaches to Challenging the Official History
+
+Strategies that different organizations have implemented to establish alternative or multivocal histories at sacred places.
+
+>Should local, state, and national parks continue to support a memory of the era in which historic sites were created—in the name of American heritage—or should these sites be seen as dynamic, fulid, and changing places that serve the needs of contemporary society?
+
+## Refuse to be subsumed by the dominant ideology
+
+Labor v. Capital at Lawrence Massachusetts
+
+- National Park Service at Lowell
+
+## Use an interdisciplinary approach to build a case for inclusiveness
+
+- Harpers Ferry National Historical Park
+
+## Accept minority views as equal
+
+Tradition v. Scientific methods at Sand Creek, Kiowa County, Southeastern Colorado
+
+- Sand Creek National Historic Site
+
+## Make a moral lesson out of a national disgrace
+
+- Manzanar, Eastern Sierra near Town of Lone Pine, California
+
+## Persistence in lobbying
+
+Making the women's suffrage movement part of the official memory in the U.S. Capitol in Washington, D.C.
+
+## Compromise with minority groups
+
+- Franklin Delano Roosevelt Memorial, West Potomac Park, Washington, D.C.
+
+## Understand the poewr of dissenting groups
+
+- Enola Gay Exhibit, Smithsonian Air and Space Museum, Washington, D.C.
+
+Idea that American history produces obedient, patriotic citizens. Michael Frisch, 1989 "The argument has traveled a long way from its humanistic origins, arriving at a point where education and indoctrination—cultural and political—seem almost indistinguishable."
+
+## Ignore minority viewpoints
+
+- Don Juan de Onate Statue, Alcalde, New Mexico
+
+>The debate over how to present the story of Onate to the public is not only about the past but also about how a group chooses to remember a past. It is about how neighbors view and treat each other and how they view themselves.
+
+# Legitimization of American heritage
+
+John Quincy Adams, "Democracy has no monuments. It strikes no medals. It bears the head of no man on a coin."
+
+Ralph Waldo Emerson wrote that Americans were "emancipated from history, happily bereft of ancestry, untouched and undefiled by the usual inheritances of family and race."
+
+Mark Leff, 1995:
+
+>This epithet, "revisionist," ... may be the key to understanding the current crisis of history. "Revisionist" meant the displacement of the more happy-faced, elite oriented view of American progress and destiny to which most Americans, particularly those raised on "consensus history" textbooks, had became accustomed. At the same time, the use of "revisionist" as a term of abuse suggests a reaction of the very notion of historical reinterpretation, uner the assumption that the displaced version of history had been objective and factual, while the revisions were subjective and faddish.
+
+"Subordinated groups may subscribe to the dominant interpretation, ignore the dominant view, or fight for representation in the public memory. Transforming the public memory of any sacred place does not come without persistence, hard work, and compromise. While there are often strong movement to eliminate subordinated memories from our ational collective memory, some minority groups battle to have their histories remembered." (p. 209)
