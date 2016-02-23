@@ -1,0 +1,200 @@
+- header:
+  - name: Eli Pousson
+    contents:
+    - text: Baltimore, Maryland
+    - text: elipousson.github.io
+      link: http://elipousson.github.io
+- section:
+  - heading: Experience
+    contents:
+    - title: Director of Preservation and Outreach
+      company: Baltimore Heritage
+      company-link: https://baltimoreheritage.org/
+      from: June 2013
+      to: present
+    - title: Field Officer
+      company: Baltimore Heritage
+      company-link: https://baltimoreheritage.org/
+      from: October 2010
+      to:  June 2013
+    - title: Architectural Historian
+      company: District of Columbia Historic Preservation Office
+      company-link: "http://planning.dc.gov/page/historic-preservation-office"
+      from: March 2009
+      to: August 2009
+- section:
+  - heading: Education
+    contents:
+    - school: "University of Maryland, College Park, Maryland"
+      degree: "Master’s of Applied Anthropology"
+      date: May 2008
+      notables:
+        - text: "Historic Preservation Certificate, December 2008"
+    - school: Carnegie Mellon University, Pittsburgh, Pennsylvania
+      degree: "Bachelor’s of Fine Arts in Industrial Design"
+      date: May 2005
+      notables:
+        - text: "Arts in Society Minor"
+- section:
+  - heading: Speaking
+    contents:
+      - title: Local Preservation School 101 Ignite Talk
+        event: Openlab Workshop
+        location: Crystal City, Virginia
+        date: December 1, 2015
+      - title: "We have a problem with vacant houses in Baltimore."
+        event: Vernacular Architecture Forum
+        location: Chicago, Illinois
+        date: June 6, 2015
+        description: "Presented in a panel on 'Vernaculars of Abandonment and Vacancy' with Michael R. Allen, Washington University in St. Louis and Brian Goldstein, University of New Mexico"
+      - title: "Getting It Right With Rightsizing: Preservation’s Role in Legacy Cities"
+        event: National Alliance of Preservation Commissions FORUM
+        location: Philadelphia, Pennsylvania
+        date: July 18, 2014
+      - title: "Mobile Interpretation and Social Media Infiltration as Preservation Advocacy in Five Cities"
+        event: Historic Preservation in America's Legacy Cities
+        location: Cleveland, Ohio
+        date: June 5, 2014
+      - title: "Building Digital (and Traditional!) Tours of Baltimore’s Historic Buildings & Neighborhoods"
+        event: Society for American City and Regional Planning History
+        location: Toronto, Canada
+        date: October 4, 2013
+        description: "Presentation on with Dr. Mark Souther, Cleveland State University, on mobile interpretation with the Curatescape platform."
+      - title: "Right Size, Right Place Forum"
+        event: Preservation Rightsizing Network
+        date: September 11, 2013
+        location: Philadelphia, Pennsylvania
+        description: Facilitated meeting of forty preservation, planning and community development professionals.
+      - title: "Friends of West Baltimore Squares: Communications Case Study"
+        event: "Preservation Maryland Summer School"
+        date: July 2013
+        location: Annapolis, MD
+        description: Presentation on communications in low-income and diverse communities based on work with the Friends of West Baltimore Squares.
+      - title: "Interpreting the Past, Building a Future through Archaeology in Lafayette Square."
+        event: Society for Historical Archaeology Annual Meeting
+        location: Baltimore, Maryland
+        date: January 2012
+      - title: "Baltimore City as Laboratory: Transformations of Urban Neighborhoods through Public History Programming"
+        event: American Studies Association Annual Meeting
+        location: Baltimore, Maryland
+        date: October 23, 2011
+        abstract: "Participating in panel organized by Dr. Nicole King, UMBC."
+      - title: "Social Networking 101: Does Facebook Have a Place in Preservation?"
+        event: Preserve Minnesota Annual Statewide Historic Preservation
+        location: Fairbault, Minnesota
+        date: September 22, 2011
+        abstract: "Participating in panel organized by Joe Hoover, Minnesota SHPO."
+      - title: "Get on the Train: Social Media for Preservation Commissions and Non-Profits"
+        event: Preservation Maryland Preservation and Revitalization Conference
+        location: Annapolis, Maryland
+        date: May 2011
+        abstract: "Presentation for session organized by Josh Silver, MNCPPC."
+      - title: "Preservation Strategies in Low-Income Neighborhoods"
+        event: "National Preservation Conference, National Trust for Historic Preservation"
+        location: Austin, Texas
+        date: October 2010
+        abstract: "Organized session with colleagues from Philadelphia, PA Los Angeles, CA and San Antonio, TX."
+      - title: "Learning from Lakeland, Maryland"
+        event: "The Diverse Suburb: History, Politics and Prospects"
+        location: "National Center for Suburban Studies, Hofstra University, Long Island, New York"
+        date: October 2009
+      - title: "Learning from the Lakeland Community Heritage Project"
+        event: Society for Applied Anthropology Annual Meeting
+        location: Memphis, TN
+        date: March 2008
+      - title: "Learning from Lakeland Community Heritage"
+        event: "Sharing Authority: Building Community-University Alliances through Oral History, Digital Storytelling and Collaboration"
+        location: "Concordia University, Montreal, QC, Canada"
+        date: February 2008
+- section:
+  - heading: Grants
+    contents:
+      - title: Herring Run Archaeology
+        source: Preservation Maryland
+        date: 2015
+        amount: ...
+      - title: Battle of Baltimore
+        source: Maryland Heritage Areas Authority
+        date: 2014
+        amount: ...
+      - title: Searching for the War of 1812 in Patterson Park
+        source: American Battlefield Protection Program
+        date: August 2013
+        amount: $66,000
+        description: Received $66,000 grant from the NPS ABPP program for the Searching for the War of 1812 in Patterson Park archaeological investigation.
+      - title: Searching for the War of 1812 in Patterson Park
+        source: Maryland Heritage Areas Authority
+        date: August 2013
+        amount: $35,000
+        description: Received a grant from MHAA for the Searching for the War of 1812 in Patterson Park archaeological investigation.
+      - title: Bmore Historic
+        source: Preservation Maryland
+        date: November 2011
+        amount: ...
+        description: Received a grant for supporting the cost of Bmore Historic.
+      - title: Witness to the War of 1812
+        source: Maryland Heritage Areas Authority
+        date: July 2011
+        amount: $4,000
+        description: Received a grant from MHAA to develop an online/mobile collection of profiles on extant historic places associated with the War of 1812.
+      - title: Survey and Inventory Grant
+        source: Archeological Society of Maryland
+        date: 2011
+        amount: $2,000
+        description: "Received support from Maryland Historical Trust and the Archeological Society of Maryland with Dr. David Gadsby and Mr. Brandon Bies for a archeological survey and public archeology program of the Civil War camp at Lafayette Square Park in Baltimore."
+      - title: "Practicing Democracy Grant - Race and Place in Baltimore Neighborhoods"
+        source: Maryland Humanities Council
+        date: 2010-2011
+        amount: $9,000
+        description: Received a $9000 grant to conduct a program series of 3 walking tours and 1 lecture in historic African American neighborhoods documented by on online archive.
+- section:
+  - heading: Reports
+    contents:
+      - title: Midtown Edmondson Historic District
+        type: National Register of Historic Places Historic District Nomination
+        location: Baltimore, Maryland
+        date: 2015
+        description:
+        link:
+      - title: Edmondson Village Historic District
+        type: National Register of Historic Places Historic District Nomination
+        location: Baltimore, Maryland
+        date: 2015
+        description:
+        link:
+      - title: American Ice Company
+        type: National Register of Historic Places Historic Landmark Nomination
+        location: Baltimore, Maryland
+        date: 2013
+        description:
+        link:
+      - title: Old Hamilton Library
+        type: National Register of Historic Places Historic Landmark Nomination
+        location: Baltimore, Maryland
+        date: 2012
+        description:
+        link:
+      - title: Edmondson Avenue Historic District
+        type: National Register of Historic Places Historic District Nomination
+        location: Baltimore, Maryland
+        date: 2011
+        description:
+        link:
+      - title: Hebrew Orphan Asylum
+        type: National Register of Historic Places Landmark Nomination
+        location: Baltimore, Maryland
+        date: 2010
+        description:
+        link:
+      - title: Hotel Hamilton
+        type: DC Local Landmark Designation
+        location: Washington, DC
+        date: 2010
+        description:
+        link:
+      - title: Mary Surratt House
+        type: National Register of Historic Places Landmark Nomination
+        location: Washington, DC
+        date: 2009
+        description:
+        link:

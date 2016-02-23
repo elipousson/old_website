@@ -1,0 +1,56 @@
+{% for item in site.data.resume %}
+{% for section in item.section %}
+{% if section.show != false %}
+<section class="resume-{{ section.heading | downcase }}{% if section.heading == 'Notables' or section.heading == 'Speaking' or section.heading == 'Volunteer' or section.heading == 'Projects' or section.heading == 'Writing' %} print-hide{% endif %}">
+<h2>{{ section.heading }}</h2>
+
+<!-- Experience -->
+{% if section.heading == 'Experience' %}
+{% for job in section.contents %}
+<h3>{{ job.title }}</h3>
+<p>{% if job.company-link %}<a href="{{ job.company-link }}">{% endif %}{{ job.company }}{% if job.company-link %}</a>{% endif %}, {{ job.from }} &mdash; {{ job.to }}</p>
+<ul>
+{% for role in job.roles %}
+<li>{{ role.text }}</li>
+{% endfor %}
+</ul>
+{% endfor %}
+{% endif %}
+
+<!-- Education -->
+{% if section.heading == 'Education' %}
+{% for school in section.contents %}
+<h3>{{ school.school }}</h3>
+<p>{{ school.degree }}, {{ school.date }}</p>
+{% endfor %}
+{% endif %}
+
+<!-- Speaking -->
+{% if section.heading == 'Speaking' %}
+{% for speaking in section.contents %}
+<h3>{% if speaking.link %}<a href="{{speaking.link}}">{% endif %}{{ speaking.title }}{% if speaking.link %}</a>{% endif %}</h3>
+<p>{{ speaking.event }}{% if speaking.presenters %}, {{ speaking.presenters }}{% endif %}<br/>
+{{ speaking.location }}, {{ speaking.date }}</p>
+{% endfor %}
+{% endif %}
+
+<!-- Grants -->
+{% if section.heading == 'Grants' %}
+{% for grants in section.contents %}
+<h3>{{ grants.title }}</h3>
+<p><i>{{ grants.amount }}, {{ grants.source }}, {{ grants.date }}.</i><br/>{{ grants.description }}</p>
+{% endfor %}
+{% endif %}
+
+<!-- Designation Reports -->
+{% if section.heading == 'Reports' %}
+{% for reports in section.contents %}
+<h3>{{ reports.title }}</h3>
+<p>{{ reports.type }}, {{ reports.location }}, {{ reports.date }}</p>
+{% endfor %}
+{% endif %}
+
+</section>
+{% endif %}
+{% endfor %}
+{% endfor %}
