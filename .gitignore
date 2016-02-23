@@ -1,8 +1,6 @@
-
-*.plist
-
-*.plist
-
-*.plist
-
+_site/
+.sass-cache/
+_ignore/
+_drafts/
+*.lock
 .Ulysses-Group.plist
