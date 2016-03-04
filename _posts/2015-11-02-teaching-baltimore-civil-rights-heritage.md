@@ -1,4 +1,15 @@
-I started by coming up with my own outline but quickly sought out resources from the Teaching Tolerance program. I took notes from [The March Continues: Five Essential Practices for Teaching the Civil Rights Movement](http://www.tolerance.org/sites/default/files/general/TTM%20Essentials_0.pdf) described as "a set of guiding principles for educators who want to improve upon the simplified King-and-Parks-centered narrative many state standards offer." I also tried to learn more about how Baltimore and Maryland typically teach the Civil Rights movement and what best practices the educators from Teaching Tolerance Recommend.
+---
+layout:     post
+title:      Teaching the Civil Rights movement in Baltimore
+date:       2015-11-02
+summary:    Reviewing existing approaches and essential practices.
+categories: teaching
+tags:       draft
+---
+
+**Note:** I started working on this post back in November but I am just now publishing it in February. I'll be doing more school tours this spring and wanted to revisit, revise and expand this post into a more detailed set of guidelines—possibly to integrate into the [Educational Resources](http://baltimoreheritage.github.io/civil-rights-heritage/educational-resources/) list I put together for Baltimore Heritage.
+
+When planning an in-classroom workshop for a ninth-grade class this fall, I started by coming up with my own outline but quickly sought out resources from the Teaching Tolerance program. I took notes from [The March Continues: Five Essential Practices for Teaching the Civil Rights Movement](http://www.tolerance.org/sites/default/files/general/TTM%20Essentials_0.pdf) described as "a set of guiding principles for educators who want to improve upon the simplified King-and-Parks-centered narrative many state standards offer." I also tried to learn more about how Baltimore and Maryland typically teach the Civil Rights movement and what best practices the educators from Teaching Tolerance recommend.
 
 # How do Baltimore and Maryland teach the Civil Rights movement?
 
@@ -6,9 +17,11 @@ A March 2014 report by the Southern Poverty Law Center’s Teaching Tolerance Pr
 
 >We remain concerned that students are likely to remem-ber only two names and four words about the civil rights movement: Martin Luther King Jr., Rosa Parks and “I have a dream.”
 
-In their review of "the breadth and depth of state standards and supports" across the nation they found only three states that earned an "A" grade and Maryland joined seven other states (Alabama, California, Florida, New York, North Carolina, Oklahoma and Virginia) with a "B" grade between 50 percent and 60 percent. In this analysis, "a score of 100 percent would mean that a state’s standards and resources were outstanding in every area; 50 percent means that they are adequate."
+In a national review of "the breadth and depth of state standards and supports" Teaching Tolerance found only three states that earned an "A" grade. In this analysis, "a score of 100 percent would mean that a state’s standards and resources were outstanding in every area; 50 percent means that they are adequate." Maryland joined seven other states (Alabama, California, Florida, New York, North Carolina, Oklahoma and Virginia) in recieving a "B" grade between 50 percent and 60 percent.
 
-In a separate list of ["Nine Notable State Resource Guides"](http://www.tolerance.org/book/nine-notable-state-resource-guides), a resource created by the Maryland State Department of Education and Reginald F. Lewis Museum of Maryland African American History & Culture is called out for praise, noting: "Several are movement-related. The lessons as a whole are excellent—most teachers could immediately use them in their classrooms." A few examples from [this larger collection](http://www.msde.maryland.gov/msde/divisions/instruction/rfl_museum_md.htm) include:
+In a separate list of ["Nine Notable State Resource Guides"](http://www.tolerance.org/book/nine-notable-state-resource-guides), a resource created by the [Maryland State Department of Education](http://www.marylandpublicschools.org/) and [Reginald F. Lewis Museum of Maryland African American History & Culture](http://www.lewismuseum.org/) is called out for praise, noting: "Several are movement-related. The lessons as a whole are excellent—most teachers could immediately use them in their classrooms."
+
+A few examples from [this larger collection](http://www.msde.maryland.gov/msde/divisions/instruction/rfl_museum_md.htm) include:
 
 - [Civil Rights and Race Relations in Maryland](http://www.msde.maryland.gov/msde/divisions/instruction/docs_rflm/Civil_Rights_Race_Relations_MD.pdf)
 
@@ -69,6 +82,8 @@ What does empowerment look like? Empowered students can:
 7. Connections: Students should be able to make connections between the civil rights movement and other social movements in history, as well as to current events and social concerns. Students should be encouraged to apply the lessons of the civil rights movement when forming their own ideas about effective citizenship.
 
 ## Baltimore & Maryland Content Suggestions
+
+Come up with a list of "content suggestions" in each of these categories:
 
 - Leaders
 - Groups
