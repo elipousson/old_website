@@ -9,8 +9,8 @@ published: true
 
 ## Reading Memory in Black and White
 
-This morning, I read the first few chapters from Memory in Black and White by Paul A. Shackel. This material is background for the second round of revisions to my [study of Baltimore's Confederate Monuments](baltimoreheritage.github.io/civil-rights-heritage/confederate-memory/) which I'll be presenting before the city's special commission on Thursday, October 29, 2015.
- 
+This morning, I read the first few chapters from Memory in Black and White by Paul A. Shackel. This material is background for the second round of revisions to my [study of Baltimore's Confederate Monuments](http://baltimoreheritage.github.io/civil-rights-heritage/confederate-memory/) which I'll be presenting before the city's special commission on Thursday, October 29, 2015.
+
 ## Race as a social/historical construct
 
 >the conflict over racism and slavery has never really been resolved. In 1865, the Civil War was over and the issue of united states was settled. What the war did not accomplish was to change the racial ideologies that had developed in American culture over several centuries. (p.1)

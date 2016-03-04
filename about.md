@@ -24,7 +24,7 @@ Lately, I’ve been busy working on [Baltimore’s Civil Rights Landmarks](http:
 - [Ulysses](http://ulyssesapp.com)
 - [GitHub Desktop](https://desktop.github.com/)
 - [WordPress](https://wordpress.org/)
-- [CiviCRM](civicrm.org/)
+- [CiviCRM](https://civicrm.org/)
 
 ## Tools I Use (Sometimes)
 

@@ -2,6 +2,7 @@
 layout:     post
 title:      Customizing the P2PU course-in-a-box Jekyll template for the Local Preservation School
 date:       2016-02-15
+summary: Bells and whistles for online education.
 categories: localpast
 published: true
 ---
@@ -30,4 +31,4 @@ Here are other things I'd like to change:
 
 - I'd like to define the order of the sub-modules with the page meta or with some additional index file.
 - I'd like to figure out if using collections may be better than using posts.
-- Fix some problems I'm encountering with prose.io 
+- Fix some problems I'm encountering with prose.io

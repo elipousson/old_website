@@ -2,6 +2,7 @@
 layout:     post
 title:      'Getting Started with Open Culture: A Guide for #SavingPlaces'
 date:       2015-12-07
+summary: 'Best practices and examples for open content, open data and open software for historic preservation.'
 categories: localpast
 published: true
 tags: draft

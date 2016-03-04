@@ -4,7 +4,7 @@ published: false
 
 
 
-As part of my work on the [Local Preservation School](localpreservation.github.io), I've been curious to seek out more online education experiences to learn more about what _I_ like and what I think might work well for the audiences we are hoping to reach. My neighbor and occasional collaborator Graham Coreil-Allen just shared a new six-week MOOC on Coursera that I'm really excited to try titled ["The Art of the MOOC: Merging Public Art and Experimental Education"](https://www.coursera.org/course/artofthemooc/).
+As part of my work on the [Local Preservation School](http://localpreservation.github.io), I've been curious to seek out more online education experiences to learn more about what _I_ like and what I think might work well for the audiences we are hoping to reach. My neighbor and occasional collaborator Graham Coreil-Allen just shared a new six-week MOOC on Coursera that I'm really excited to try titled ["The Art of the MOOC: Merging Public Art and Experimental Education"](https://www.coursera.org/course/artofthemooc/).
 
 Here is the course description:
 
