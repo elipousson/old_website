@@ -30,7 +30,7 @@ Although I may be a novice at data visualization, I know enough to realize that 
 - [Chartbuilder](https://github.com/Quartz/Chartbuilder) - available as a [hosted tool](http://quartz.github.io/Chartbuilder/) or as a [desktop version](https://github.com/mhkeller/chartbuilder-electron)
 - [RAW from Density Design](http://raw.densitydesign.org)
 - [bl.ocks.org](http://bl.ocks.org/) (with or without [D3.js](http://d3js.org/))
-- [Atom.io](atom.io) with packages - learn more about [Atom Packages](https://atom.io/docs/v1.1.0/using-atom-atom-packages)
+- [Atom.io](https://atom.io) with packages - learn more about [Atom Packages](https://atom.io/docs/v1.1.0/using-atom-atom-packages)
   - [tablr](https://atom.io/packages/tablr)
   - [json-converter](https://atom.io/packages/json-converter)
 
