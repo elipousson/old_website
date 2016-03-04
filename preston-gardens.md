@@ -281,7 +281,7 @@ Col. Sherlock Swann (see this [Maryland Historical Society Collection][4] for mo
 
 [^26]:	_runs_1907
 
-[2]:	http://baltimoreheritage.github.io/baltimore-civil-rights-heritage/about
+[2]:	http://baltimoreheritage.github.io/civil-rights-heritage/about
 [3]:	http://digitalcollections.nypl.org/items/510d47dd-eac1-a3d9-e040-e00a18064a99
 [4]:	http://www.mdhs.org/findingaid/sherlock-swann-papers-1888-1924-ms-3064
 [5]:	https://en.wikipedia.org/wiki/Thomas_Swann
