@@ -26,6 +26,7 @@ Here are the features I'd like to add:
 - Mapping with CartoDB.js or GeoJSON (e.g. [Jekyll GeoJSON weaver](http://katydecorah.com/code/weaving-geojson/))
 - [Search with lunr.js](http://katydecorah.com/code/lunr-and-jekyll/)
 - [gifplayer](http://rubentd.com/gifplayer/)
+- [CSV to HTML Table](https://github.com/derekeder/csv-to-html-table)
 
 Here are other things I'd like to change:
 
