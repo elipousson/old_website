@@ -16,7 +16,7 @@ A bit coincidentally, my workshop came just two days after the [Vacants to Value
 
 - [Overview/Resources](https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-workshop.md) – this is my main planning document although it is a bit out of date following last-minute changes to the program itinerary.
 - [Presentation slides](http://slides.com/baltimoreheritage/vacant-house-workshop/) — created with slides.com – a hosted visual editor for [reveal.js](http://lab.hakim.se/reveal-js/#/) – I'd like to include more images when I revise these.
-- [Script/notes](https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-workshop-script.md) – these are very rough but I hope to improve them over time. I wrote them in [Ulysses](http://www.ulyssesapp.com/) – a markdown editor that I continue to love after six months of using it. 
+- [Script/notes](https://github.com/elipousson/vacant-vernacular/blob/master/vacant-house-workshop-script.md) – these are very rough but I hope to improve them over time. I wrote them in [Ulysses](http://www.ulyssesapp.com/) – a markdown editor that I continue to love after six months of using it.
 
 ## How did the workshop go?
 
@@ -45,7 +45,7 @@ A bit coincidentally, my workshop came just two days after the [Vacants to Value
 - Send out an evaluation form for the workshop
 - Writing a series of blog posts based on my notes from the Vacants to Value Summit
 - Creating a baltimoreheritage.org resource page for historic neighborhoods based on workshop resource 1-pager
-- Converting the vacant-vernacular repo from a static collection of .md files into a real Jekyll site 
+- Converting the vacant-vernacular repo from a static collection of .md files into a real Jekyll site
 - Putting together a proposal for the AASLH meeting in Detroit
 - Writing a grant application for the Humanities for Baltimore grant program
 
