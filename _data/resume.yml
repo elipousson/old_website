@@ -9,17 +9,17 @@
     contents:
     - title: Director of Preservation and Outreach
       company: Baltimore Heritage
-      company-link: https://baltimoreheritage.org/
+      company-link: http://baltimoreheritage.org/
       from: June 2013
       to: present
     - title: Field Officer
       company: Baltimore Heritage
-      company-link: https://baltimoreheritage.org/
+      company-link: http://baltimoreheritage.org/
       from: October 2010
       to:  June 2013
     - title: Architectural Historian
       company: District of Columbia Historic Preservation Office
-      company-link: "http://planning.dc.gov/page/historic-preservation-office"
+      company-link: http://planning.dc.gov/page/historic-preservation-office
       from: March 2009
       to: August 2009
 - section:
@@ -110,7 +110,7 @@
   - heading: Grants
     contents:
       - title: Herring Run Archaeology
-        source: Preservation Maryland
+        source: Preservation Maryland, Heritage Fund
         date: 2015
         amount: ...
       - title: Battle of Baltimore
@@ -128,7 +128,7 @@
         amount: $35,000
         description: Received a grant from MHAA for the Searching for the War of 1812 in Patterson Park archaeological investigation.
       - title: Bmore Historic
-        source: Preservation Maryland
+        source: Preservation Maryland, Heritage Fund
         date: November 2011
         amount: ...
         description: Received a grant for supporting the cost of Bmore Historic.
