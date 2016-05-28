@@ -2,6 +2,13 @@
 
 ### 2016
 
+#### 2016-05-27
+
+- Read the historic property report for 13-15 W. Eager Street
+- Conducted additional research on 13-15 W. Eager Street w/ ProQuest
+- Phone call with DM re: Explore Baltimore Heritage project on northeast Baltimore this fall ([notes](https://docs.google.com/document/d/1tWCxGKdWVf9DEWRKEWhdFWI-i6DH4jzvhoH_bmK8H40/edit?usp=sharing))
+- Found this [neat collection of PD-licensed icons from LA Great Streets](https://thenounproject.com/greatstreets/collection/la-great-streets/)
+
 #### 2016-05-26
 
 - Skimmed the [Mozilla Study Group Handbook](https://mozillascience.github.io/studyGroupHandbook/) (possible model for our LPS workshops)
