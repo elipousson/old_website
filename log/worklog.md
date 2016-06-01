@@ -2,6 +2,15 @@
 
 ### 2016
 
+#### 2016-05-30
+
+- Met with RJ to plan vacant house educational workshops for October-December 2016
+- Reviewed the [INSPIRE plans](http://planning.baltimorecity.gov/inspire/inspire-plans) for John Eager Howard, For Worthington, and Frederick
+- Re-read the [Abell Foundation report on Vacants to Value](www.abell.org/sites/default/files/files/cd-vacants2-value1115.pdf)
+- Read this [2012 paper on demolition](http://www.brookings.edu/~/media/research/files/papers/2012/9/24%20land%20use%20demolition%20mallach/24%20land%20use%20demolition%20mallach.pdf) by Alan Mallach
+- Fixed a few problems with [rightsizeplace.org](https://rightsizeplace.org) and [westbaltimoresquares.org](https://westbaltimoresquares.org) (my old one-click WP installs on Dreamhost keep breaking!)
+- Found this [very cool open-source Jekyll-based audio tour creator](https://labs.acmi.net.au/an-open-source-static-museum-audio-guide-4c5cd83dbdcb#.pzfpsmpsk)
+
 #### 2016-05-27
 
 - Read the historic property report for 13-15 W. Eager Street
