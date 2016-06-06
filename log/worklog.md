@@ -2,6 +2,32 @@
 
 ### 2016
 
+#### 2016-06-06
+
+- Meeting with MG about LPS workshop in New York
+- Using [OpenRefine](http://openrefine.org/) to get pages from Place Matters toolkit; converting them to Markdown with [Pandoc Droplets](https://github.com/dsanson/Pandoc-Droplets-and-Services) 
+- Planning itinerary for [Bricks in Baltimore](https://artbma.org/events/2016-11-06.commons.collaboration) tour w/ MP
+- Discussed program and presentation for Awards celebration w/ JH
+- Promoted [upcoming bike tour](http://baltimoreheritage.org/event/baltimore-meets-florence-italian-architecture-desserts-by-bike-2016/) on Facebook
+
+#### 2016-06-03
+
+- Published and promoted Explore Baltimore Heritage story on Manual Labor School
+- Led Upton/Madison Park walking tour for Baltimore Collegetown group
+
+#### 2016-06-02
+
+- Finished preparing my workshop presentation for Introduction to GitHub bLAM Class
+- Reviewed registrants for Explore Baltimore Heritage 101 course
+- Phone call with CL about PRN Communications
+- Facilitated  Introduction to GitHub bLAM Class workshop
+	 
+#### 2016-06-01
+
+- Fixed problems with user/group permissions on baltimoreheritage.org server
+- Phone call with PG to discuss LPS workshop in Philadelphia
+- Drafted description for LPS workshop in Philadelphia
+
 #### 2016-05-30
 
 - Met with RJ to plan vacant house educational workshops for October-December 2016
