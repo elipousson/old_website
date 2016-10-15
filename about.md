@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+tags:  about
 ---
 
 Hello! My name is Eli Pousson. I am a historic preservation advocate and local historian in Baltimore, Maryland. I work for [Baltimore Heritage](http://baltimoreheritage.org), occasionally blog at [Historic Sprawl](https://historicsprawl.wordpress.com/), collect references [on Zotero](https://www.zotero.org/elipousson), and share photographs [on Flickr](http://flickr.com/photos/baltimoreheritage/). I also tweet [@elipousson](http://twitter.com/elipousson).
