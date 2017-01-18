@@ -1,6 +1,8 @@
 ---
+layout:     post
 title: "Teaching Local History: A Bibliography in Progress"
 date: 2017-01-17
+category: teaching
 ---
 
 <div class="csl-bib-body" style="line-height: 1.35; padding-left: 2em; text-indent:-2em;">
