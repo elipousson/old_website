@@ -24,7 +24,7 @@ Neighborhood organizations can already access detailed information about their n
 
 ## Getting started with Open Baltimore
 
-![Create a new Socrata ID](/images/open-baltimore-create-id.png)
+![Create a new Socrata ID](/assets/images/open-baltimore-create-id.png)
 
 1. [Set up an account](https://data.baltimorecity.gov/signup) on Open Baltimore. You may want to set up the account using your own name and email or you may want to set up an account using the name of your community organization.
 2. Sign in to your account.
@@ -34,7 +34,7 @@ Neighborhood organizations can already access detailed information about their n
 
 ## Finding and filtering data from Open Baltimore
 
-![Housing and Community Development Data](/images/open-baltimore-housing-development.png)
+![Housing and Community Development Data](/assets/images/open-baltimore-housing-development.png)
 
 1. Find a dataset that is relevant for your neighborhood. For this project we will be working with the [Baltimore Housing Permit](https://data.baltimorecity.gov/Housing-Development/Housing-Permits/fesm-tgxf) dataset. You can find the dataset by browsing in the [Housing and Community Development category](https://data.baltimorecity.gov/browse?category=Housing%20&%20Development). The full list of categories on Open Baltimore include:
 	- City Government
