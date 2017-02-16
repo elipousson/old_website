@@ -1,5 +1,5 @@
 ---
-title: Notes on "Artifacts and the American Past"
+title: Notes on Artifacts and the American Past
 layout: page
 ---
 
