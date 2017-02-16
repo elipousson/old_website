@@ -14,7 +14,9 @@ Schlereth, Thomas J. Artifacts and the American Past. 2nd Printing edition. Nash
 
 > Motivated by an urgent desire to reinvigorate the teaching of history in both its formal and informal learning contacts the new history endeavors to embrace a pedagogical philosophy that puts principal emphasis on learning as intellectual inquiry rather than rote memorization; seeks to involve students in the process of first-hand research investigations using primary sources; and attempts to recognize that much historical evidence knowledge and understanding exists outside of the traditional history classroom. (p. 1)
 
-The **inquiry pedagogy** as developed by John Dewey and Francis Parker: "sees every artifact—textbook, school, museum, community—as a learning environment." The concept of "learning laboratories" builds on this philosophy to suggest that "students should be subjected to more labor and less oratory". "Learning laboratories" are "environments" with "diverse graphic, documentary, and physical evidence... places where the original Greek meaning of the word _history_ ("to investigate," "to inquire") applies in the fullest sense. (p. 2)
+The **inquiry pedagogy** as developed by [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) and [Francis Parker](https://en.wikipedia.org/wiki/Francis_Wayland_Parker): "sees every artifact—textbook, school, museum, community—as a learning environment." The concept of "learning laboratories" builds on this philosophy to suggest that "students should be subjected to more labor and less oratory".
+
+**Learning laboratories** are "environments" with "diverse graphic, documentary, and physical evidence... places where the original Greek meaning of the word _history_ ("to investigate," "to inquire") applies in the fullest sense. (p. 2)
 
 Nine techniques for analysis:
 
@@ -36,11 +38,44 @@ Three research and teaching "axioms" about "ways to explore the history outside 
 2. Understanding the uncommon history of common things: "material culture data provides us with one abundant source for gaining historical insight into the lives of those who left on other records."
 3. Need for methodological rigor and precision: need to move from descriptive investigation to the "more problematic area of historical analysis and interpretation... it is vital for the historical investigator to adapt or create a research design that seems most appropriate to the questions he or she wishes to address to the artifactual data under study."
 
-# Student Exercises
+# Uses of Cartography
 
-## Historic House Museums
+- Source of primary information
+- Method of historical analysis
+- Means of graphic communication
 
-**Note:** This chapter is focused on interpreted historic house museums but in these notes I have often substituted the word "building" for "house" to help reimagine the relevance of these strategies to non-residential buildings and buildings that are _not_ museums.
+Questions to ask:
+
+- What is the historical value of a map?
+- How does it affect our knowledge of the past?
+- What does the map prove or establish beyond what is already accepted as historical truth?
+- What historical evidence can the map be pressed to yield?
+
+Topics:
+
+- Geographical and topological features (pp. 68 – 71)
+- Settlement patterns and paths (pp. 71 – 77)
+- Working and selling places (pp. 77 – 79)
+- Transportation and circulation networks (pp. 79 – 81)
+- Cultural and social geography (pp. 81 – 84)
+- Town plans and civil design (pp. 84)
+
+Limitations to map-reading:
+
+- distortions of reality
+- certain biases of their creator (e.g. What subject is central? How prominent are certain labels or features?)
+- falsify scale and proportion
+
+**Remember**: map-publishers sometimes reissued maps, changing date of issuance without updating cartography; early map-makers also used historical material from earlier sources (documentary or cartographic) without acknowledgement. (p. 85)
+
+>Maps, like either documents or material remains of the past, are passive objects and they will speak only when they are properly questioned.
+> — Marc Bloch, The Historian's Craft (1953)
+
+# Historic House Museums
+
+**Note:** This chapter is focused on interpreted historic house museums but in these notes I have often substituted the word "building" for "house" to help reimagine the relevance of these strategies to non-residential buildings and buildings that are _not_ museums. I also skipped taking notes on the inquiry and bibliographical resources to focus on student project ideas in detail.
+
+## Student Projects
 
 Seven teaching strategies corresponding to seven "disciplinary fields of study":
 
@@ -67,9 +102,11 @@ Students can **measure and record a building** "calculating and appraising its e
 - isometric perspectives
 - sections (general, cross, longitudinal)
 - decorative and structural views
-- floor plans
+- [floor plans](https://en.wikipedia.org/wiki/Floor_plan)
 
-Students are compelled to "see the structure as its builder(s) may have perceived its form, materials, and spaces." Henry Glassie points out "empathy with the builder is a crucial focus of the folklorist approach to housing types... an extremely valuable perspective for evaluating any residence."
+See [Architectural drawing](https://en.wikipedia.org/wiki/Architectural_drawing); [Multiview orthographic projections](https://en.wikipedia.org/wiki/Multiview_orthographic_projection); [Cross section](https://en.wikipedia.org/wiki/Cross_section_(geometry)); or [Isometric projection](https://en.wikipedia.org/wiki/Isometric_projection) on Wikipedia. See also [Comparison of computer-aided design editors](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_editors).
+
+Students are compelled to "see the structure as its builder(s) may have perceived its form, materials, and spaces." [Henry Glassie](https://en.wikipedia.org/wiki/Henry_Glassie) points out "empathy with the builder is a crucial focus of the folklorist approach to housing types... an extremely valuable perspective for evaluating any residence."
 
 Floor plans or other drawings can then be compared or analyzed alongside drawings of other buildings in the same local area or region. See H.G. West's "A Change in Plans: Is the Modern House a Victorian Invention?" (_Landscape_, Winter 1952).
 
@@ -86,7 +123,7 @@ Students can gain an insight into the "social and physiological import of the en
 
 Or by reviewing demographic data about occupants (e.g. genealogies, mortality, census data) or records of artifacts within the house (e.g. inventories, wills, deeds, account books, etc.)
 
-Students can attempt "imaginative reconstruction of family life in the past" based on the model of J.B. Jackson's "The Westward-Moving House: Three American Houses and the People Who Lived in Them" (_Landscape_, 1953) (**Note:** This approach seems _risky_ to me!).
+Students can attempt "imaginative reconstruction of family life in the past" based on the model of [J.B. Jackson's](https://en.wikipedia.org/wiki/J._B._Jackson) "The Westward-Moving House: Three American Houses and the People Who Lived in Them" (_Landscape_, 1953) (**Note:** This approach seems _risky_ to me!).
 
 Analyze residential interiors. Use interior photographs of a building or similar buildings to make inferences about how prior occupants organized and used space within the building:
 
@@ -99,7 +136,7 @@ Analyze residential interiors. Use interior photographs of a building or similar
 Students need two skills to learn from artifacts:
 
 - the ability to "read" individual objects
-- the ability to "read" an assemblage of artifacts
+- the ability to "read" an [assemblage of artifacts](https://en.wikipedia.org/wiki/Assemblage_(archaeology))
 
 Exercises for thinking systematically about individual artifacts include E. McClung Fleming, "Artifact Study: A Proposed Model" (_Winterthur Portfolio_, 1975) that suggests a five-part system for classifying the properties of an object:
 
@@ -132,7 +169,6 @@ One approach is the "Room-Study Checklist" by Scott Swank, Education Division of
 
 Swank suggests dividing students into teams; each spending several weeks researching a room based on one of the five categories and preparing a report.
 
-
 > One way of demonstrating the technological and consumer revolution in the American home is to provide students with reproductions of inventories for a cross-section of American parlors and kitchens and, if extant, of such rooms in the specific historic houses that they are investigating.
 
 Students may be asked to "complete an inventory form listing all the domestic appliances and household accouterments in his or her present home." Students can **compare past and present**; considering "American attitudes towards personal comfort, material abundance, energy consumption, and even waste disposal."
@@ -155,13 +191,15 @@ Students need to "think about a home's exterior spatial relationships and how th
 
 To create location maps and plot plans, students need sources including:
 
-- Cadastral surveys
+- [Cadastral surveys](https://en.wikipedia.org/wiki/Cadastre)
 - City and county atlases
 - Land-ownership maps
 - Plat books
 - Fire insurance and ward maps
 - Panoramic and bird's-eye-views
 - Streetscape, landscape, and aerial photography
+
+See [Map](https://en.wikipedia.org/wiki/Map), [Cartography](https://en.wikipedia.org/wiki/Cartography), [History of cartography](https://en.wikipedia.org/wiki/History_of_cartography), [Atlas](https://en.wikipedia.org/wiki/Atlas), [City map](https://en.wikipedia.org/wiki/City_map), [Pictorial maps](https://en.wikipedia.org/wiki/Pictorial_maps), [Aerial photography](https://en.wikipedia.org/wiki/Aerial_photography), [Sanborn Maps](https://en.wikipedia.org/wiki/Sanborn_Maps) on Wikipedia.
 
 ### 5. Literary and symbolic interpretations  (pp. 109 – 110)
 
@@ -175,7 +213,7 @@ To create location maps and plot plans, students need sources including:
 - magazine and newspaper accounts
 - artistic and photographic renderings
 
-Pay special attention to changes in representation, renderings, and perspectives (esp. distortions and exaggerations). Ask:
+Pay special attention to changes in representation, renderings, and perspectives (esp. distortions and exaggerations). Students can ask:
 
 - Does the building "stand" for something? Or "make a statements" about the "cultural, economic, or social status" of the owners?
 - Is this an intended or unintended act by the original owners or designers?
@@ -196,7 +234,7 @@ Consider three approaches:
 2. Explore historical associations of architectural styles
 3. Explore personal living environments
 
-Ask students to use drawings and chronological charts to **trace stylistic components and iconographic features** of a building, e.g. "a detailed art history of cornice forms, arch types, brick patterns... can become the basis for an extended class exploration of the entire several-thousand-year history of Wester design and decoration."
+Ask students to use drawings and chronological charts to **trace stylistic components and iconographic features** of a building, e.g. "a detailed art history of cornice forms, arch types, brick patterns... can become the basis for an extended class exploration of the entire several-thousand-year history of Western design and decoration."
 
 Students can split into two teams to investigate the "origins, development, and forms" of features:
 
@@ -208,7 +246,7 @@ After the research is complete, students can engage in "extended seminar discuss
 Connect later phases of American history with earlier phases and/or American history with European history by exploring the historical associations of American architectural styles (e.g. Georgian, Dutch Colonial, Pueblo; Second Empire, Gothic, Greek Revival).
 
 > A single dwelling may instruct us in the history of mankind: in the glories and sometimes the depravities of past generations; in the discoveries of engineers and chemists; in sociology and economics and taste; in the genius and folly of nations and individuals."
-> — Laurence Lafore, _American Classic_ (1975)
+> — [Laurence Lafore](https://en.wikipedia.org/wiki/Laurence_Lafore), _American Classic_ (1975)
 
 Students can also study their _own_ homes. Florence Ladd, "Doing Residential History: You Can Go Home Again," _Landscape_ (Winter 1976) demonstrates:
 
@@ -229,7 +267,7 @@ See also:
 
 The evaluation can be written as a report with specific recommendations for improving interpretation and/or support a discussion with students and museum curatorial or education staff.
 
-This activity needs students to be familiar with "critical appraisals" of "historic house museums as interpreters of the American past"; see David Lowenthal, Richard Rabinowitz, Pierce Lewis, and Irvin Richman.
+This activity needs students to be familiar with "critical appraisals" of "historic house museums as interpreters of the American past"; see [David Lowenthal](https://en.wikipedia.org/wiki/David_Lowenthal), Richard Rabinowitz, [Peirce F. Lewis](https://en.wikipedia.org/wiki/Peirce_F._Lewis), and Irvin Richman.
 
 Write a **history of the historic house museum**. Students can study the history of the house museum in the context of:
 
@@ -238,3 +276,44 @@ Write a **history of the historic house museum**. Students can study the history
 - cultural history of nineteenth and twentieth century America
 
 Comparative analysis can reveal "intriguing parallels and paradoxes" and "suggest a different angle of vision on the American past".
+
+# Historic Museum Village
+
+Try to perceive the historic museum village as:
+
+- A total living environment
+- A repository of cultural artifacts
+- An above-ground archaeological site
+
+Study village "as a macrocosm and in microcosm" (p. 121)
+
+# Community History through Local Artifacts
+
+- Geological and geographical features (pp. 187 – 189 )
+- Landscape vegetation (pp. 189 – 191 )
+- Place and street names (pp. 191 – 192 )
+- Street histories (pp. 192 – 195 )
+- Vernacular buildings (pp. 195 – 197 )
+- Working places (pp. 197 – 198 )
+- Commercial archaeology (pp. 198 – 201)
+
+>In short, local and community history can be read in asphalt and cast-iron; in house of worship and in just plain houses; in diners and equestrian statues, in inner city neighborhoods and in suburban tracts, in city plans and city streets. To be sure, above-ground archaeology cannot be done without the data we normally find the library archives municipal record office and museums. ... Most historians know and use these documentary or verbal sources. We have been slow, however, in equipping ourselves with the visual literacy to a company our almost exclusive lexical literacy. I think we need to acknowledge that the past is visual as well as verbal. (pp. 202 – 203)
+
+# Coda
+
+Fallacies:
+
+1. History is progressive
+2. History is patriotic
+3. History is nostalgia
+4. History is consensus
+5. History is simple
+6. History is money
+
+See this list of [fallacies on Wikipedia](https://en.wikipedia.org/wiki/List_of_fallacies).
+
+Reflections:
+
+1. History should be inquiry
+2. History should be communal
+3. History should be personal
