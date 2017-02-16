@@ -5,6 +5,8 @@ layout: page
 
 Schlereth, Thomas J. Artifacts and the American Past. 2nd Printing edition. Nashville, Tenn: Amer Assn for State & Local, 1981.
 
+![Artifacts and the American Past (cover)]({{ site.baseurl }}/assets/images/artifacts-american-past-cover.jpg)
+
 **Note – 2017 February 16**: While the extensive bibliographical resources in this book may be a bit dated, the broader framework for promoting historical inquiry of material culture (especially the built environment) and the suggestions for student projects are relevant and useful. I've put together these notes as a resource for my own teaching and for any other learners or educators who might find it helpful. This is a work-in-progress—I've reviewed the introduction and the fourth chapter on historic house museums in detail but have not yet taken any notes on the other sections of the book.
 
 > "Artifacts and useful objects are part of all recorded history. They are devised, invented, and made as adjuncts to the human being's ability to accomplish work or enjoy pleasure. A close examination of any object is a graphic description of the level of intelligence, manual dexterity, and artistic comprehension of the civilization that produced it. You can reflect as well the climate, religious beliefs, form of government, the natural materials at hand, the structure of commerce, and the extent of man's scientific and emotional sophistication.
@@ -38,7 +40,38 @@ Three research and teaching "axioms" about "ways to explore the history outside 
 2. Understanding the uncommon history of common things: "material culture data provides us with one abundant source for gaining historical insight into the lives of those who left on other records."
 3. Need for methodological rigor and precision: need to move from descriptive investigation to the "more problematic area of historical analysis and interpretation... it is vital for the historical investigator to adapt or create a research design that seems most appropriate to the questions he or she wishes to address to the artifactual data under study."
 
-# Uses of Cartography
+# Photography
+
+Four sections looking at photography as:
+
+- Historical process
+- Historical data
+- Historical interpretation
+- Historical distortion
+
+# Mail-order catalogues
+
+Mail-order catalogues (the "Big Book") can be used as a:
+
+- casebook
+- sourcebook
+- textbook
+- or "question book" of American history
+
+Mail-order catalogues "cannot be studied apart from at least two other contexts":
+
+- the products they describe, i.e. mail-order _goods_
+- the processes that create them, i.e. mail-order _merchandising_
+
+Two sections:
+
+- American studies
+- Material culture studies
+
+
+# Cartography
+
+Maps and cartography can be used as:
 
 - Source of primary information
 - Method of historical analysis
@@ -298,6 +331,13 @@ Study village "as a macrocosm and in microcosm" (p. 121)
 - Commercial archaeology (pp. 198 – 201)
 
 >In short, local and community history can be read in asphalt and cast-iron; in house of worship and in just plain houses; in diners and equestrian statues, in inner city neighborhoods and in suburban tracts, in city plans and city streets. To be sure, above-ground archaeology cannot be done without the data we normally find the library archives municipal record office and museums. ... Most historians know and use these documentary or verbal sources. We have been slow, however, in equipping ourselves with the visual literacy to a company our almost exclusive lexical literacy. I think we need to acknowledge that the past is visual as well as verbal. (pp. 202 – 203)
+
+# Vegetation
+
+- Historic preservation
+- Historical ethnobotany
+- Art historians
+- Historical farm and agricultural interpretation
 
 # Coda
 
