@@ -36,12 +36,30 @@
       notables:
         - text: "Arts in Society Minor"
 - section:
-  - heading: Speaking
+  - heading: Facilitation
+    contents:
+      - title: "Explore Baltimore Heritage 101: Community-Based Teaching & Learning Workshop"
+        event: Explore Baltimore Heritage 101
+        date: 2017 February 10
+        location: UMBC, Catonsville, Baltimore County, Maryland
+        description: Facilitated a collaborative workshop with twenty-five educators, graduate students, and professionals with an interest in local cultural heritage.
+      - title: "Local Preservation School Workshop Series"
+        event: Local Preservation School
+        date: 2016 September – December
+        location: New York City, Philadelphia, and Washington, DC.
+        description: Facilitated a series of three collaborative workshops with educators, students, advocates, and professionals interested in historic preservation and related topics.
+      - title: "Right Size, Right Place Forum"
+        event: Preservation Rightsizing Network
+        date: 2013 September 11
+        location: Philadelphia, Pennsylvania
+        description: Facilitated meeting of forty preservation, planning and community development professionals.
+- section:
+  - heading: Talks
     contents:
       - title: Local Preservation School 101 Ignite Talk
         event: Openlab Workshop
         location: Crystal City, Virginia
-        date: December 1, 2015
+        date: 2015 December 1
       - title: "We have a problem with vacant houses in Baltimore."
         event: Vernacular Architecture Forum
         location: Chicago, Illinois
@@ -60,11 +78,6 @@
         location: Toronto, Canada
         date: October 4, 2013
         description: "Presentation on with Dr. Mark Souther, Cleveland State University, on mobile interpretation with the Curatescape platform."
-      - title: "Right Size, Right Place Forum"
-        event: Preservation Rightsizing Network
-        date: September 11, 2013
-        location: Philadelphia, Pennsylvania
-        description: Facilitated meeting of forty preservation, planning and community development professionals.
       - title: "Friends of West Baltimore Squares: Communications Case Study"
         event: "Preservation Maryland Summer School"
         date: July 2013

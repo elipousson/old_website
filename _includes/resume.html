@@ -25,12 +25,21 @@
 {% endfor %}
 {% endif %}
 
-<!-- Speaking -->
-{% if section.heading == 'Speaking' %}
-{% for speaking in section.contents %}
-<h3>{% if speaking.link %}<a href="{{speaking.link}}">{% endif %}{{ speaking.title }}{% if speaking.link %}</a>{% endif %}</h3>
-<p>{{ speaking.event }}{% if speaking.presenters %}, {{ speaking.presenters }}{% endif %}<br/>
-{{ speaking.location }}, {{ speaking.date }}</p>
+<!-- Facilitation -->
+{% if section.heading == 'Facilitation' %}
+{% for facilitation in section.contents %}
+<h3>{% if facilitation.link %}<a href="{{facilitation.link}}">{% endif %}{{ facilitation.title }}{% if facilitation.link %}</a>{% endif %}</h3>
+<p>{{ facilitation.event }}{% if facilitation.presenters %}, {{ facilitation.presenters }}{% endif %}<br/>
+{{ facilitation.location }}, {{ facilitation.date }}</p>
+{% endfor %}
+{% endif %}
+
+<!-- Talks -->
+{% if section.heading == 'Talks' %}
+{% for talks in section.contents %}
+<h3>{% if talks.link %}<a href="{{talks.link}}">{% endif %}{{ talks.title }}{% if talks.link %}</a>{% endif %}</h3>
+<p>{{ talks.event }}{% if talks.presenters %}, {{ talks.presenters }}{% endif %}<br/>
+{{ talks.location }}, {{ talks.date }}</p>
 {% endfor %}
 {% endif %}
 
