@@ -18,7 +18,7 @@ Google Docs is excellent at collaboration and offers a wide variety of rich form
 
 Start by taking a look at [Atom](https://atom.io/). Atom can edit Markdown text files but it works even better when you use packages and themes designed to improve your writing and editing experience.
 
-There are many packages [created for working with Markdown](https://atom.io/packages/search?utf8=%E2%9C%93&q=keyword:markdown)but a few favorites include:
+There are many packages [created for working with Markdown](https://atom.io/packages/search?utf8=%E2%9C%93&q=keyword:markdown) but a few favorites include:
 
  - [markdown-deluxe](https://atom.io/packages/markdown-deluxe)
  - [markdown-folder](https://atom.io/packages/markdown-folder)
@@ -28,6 +28,9 @@ There are many packages [created for working with Markdown](https://atom.io/pack
  - [tool-bar-markdown-writer](https://atom.io/packages/tool-bar-markdown-writer)
  - [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus)
  - [language-markdown](https://atom.io/packages/language-markdown)
+
+I'd also recommend a few other packages that can improve the overall writing experience in Atom:
+
  - [linter-write-good](https://atom.io/packages/linter-write-good)
  - [linter-alex](https://atom.io/packages/linter-alex)
  - [zotero-citations](https://atom.io/packages/zotero-citations)
@@ -37,16 +40,18 @@ There are also several [Markdown friendly themes](https://atom.io/themes/search?
 
 ### Other Markdown-friendly text editors
 
-In addition to Atom, I regularly use [Ulysses](https://ulyssesapp.com/). I also occasionally use [Pandoc](http://pandoc.org) and [Marked 2](http://marked2app.com/). My experience using Pandoc is limited so, if you're interested in learning more, I recommend reading [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) (a [Programming Historian](http://programminghistorian.org/) tutorial by Dennis Tenen and Grant Wythoff).
+In addition to Atom, I regularly use [Ulysses](https://ulyssesapp.com/). I also occasionally use [Pandoc](http://pandoc.org) and [Marked 2](http://marked2app.com/). My experience using Pandoc is limited so, if you're interested in learning more, I recommend reading [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) (a [Programming Historian](http://programminghistorian.org/) tutorial by Dennis Tenen and Grant Wythoff). Again, there are [several Atom packages](https://atom.io/packages/search?q=pandoc) created to work with Pandoc.
 
-Wikipedia provides an [extensive comparison of text editors](https://en.wikipedia.org/wiki/Comparison_of_text_editors) (which include several editors designed for use with Markdown). Some tools allow you to edit Markdown files but other tools specialize in converting Markdown files into other formats (e.g. Word Document or PDF). Some popular free options for text editors include:
+Wikipedia provides an [extensive comparison of text editors](https://en.wikipedia.org/wiki/Comparison_of_text_editors) (which include several editors designed for use with Markdown). Some tools allow you to edit Markdown files but other tools specialize in converting Markdown files into other formats (e.g. Word Document or PDF).
+
+Some popular free options for Markdown text editors include:
 
 - [StackEdit](https://stackedit.io/) ([Chrome app](https://chrome.google.com/webstore/detail/stackedit/iiooodelglhkcpgbajoejffhijaclcdg))
 - [Minimalist Markdown Editor](https://chrome.google.com/webstore/detail/minimalist-markdown-edito/pghodfjepegmciihfhdipmimghiakcjf)
 - [MarkRight](https://github.com/dvcrn/markright)
-- [HackMD](https://hackmd.io/) ([GitHub repo](https://github.com/hackmdio/hackmd)): Realtime collaborative markdown notes on all platforms.
+- [HackMD](https://hackmd.io/) ([GitHub repo](https://github.com/hackmdio/hackmd)): "Realtime collaborative markdown notes on all platforms."
 
-Some useful editors cost money to purchase including:
+Some useful Markdown editors cost money to purchase. These include:
 
 - [Ulysses](https://ulyssesapp.com/)
 - [Marked 2](http://marked2app.com/)
@@ -58,8 +63,6 @@ If you are publishing Markdown files with [GitHub Pages](https://pages.github.co
 
 - [Prose](http://prose.io/) is a content editor for GitHub designed for managing websites.
 - [Jekyll Admin](https://github.com/jekyll/jekyll-admin/) ([documentation](https://jekyll.github.io/jekyll-admin/))
-
-
 
 ## Alternatives to Google Sheets for editing and sharing data
 
@@ -88,7 +91,9 @@ There are a variety of presentation frameworks that allow you to create a web-ba
 
 Find more options in this [Wikipedia article on web-based slideshows](https://en.wikipedia.org/wiki/Web-based_slideshow).
 
-There are even [a few Atom packages](https://atom.io/packages/search?utf8=%E2%9C%93&q=keyword:presentation) designed for working with these frameworks. However, these options can be difficult for people who are not developers to use. Other tools include more features but may require a paid subscription. These include:
+There are even [a few Atom packages](https://atom.io/packages/search?utf8=%E2%9C%93&q=keyword:presentation) designed for working with these frameworks. However, these options can be difficult for people who are not developers to use.
+
+Some tools make it easier to create web-based slideshows using Markdown but may require a paid subscription. These tools include:
 
 - [Slides](https://slides.com/) (based on reveal.js)
 - [Swipe](https://www.swipe.to/markdown/)
@@ -96,21 +101,21 @@ There are even [a few Atom packages](https://atom.io/packages/search?utf8=%E2%9C
 
 ## Converting Google Docs or Sheets to Markdown
 
-If you need to work with both Google Docs and Markdown files there are a couple extensions and scripts that can help make the process easier:
+If you need to work with _both_ Google Docs and Markdown text files, here are a couple extensions and scripts that can help make the process easier:
 
 - [Export as Markdown](https://chrome.google.com/webstore/detail/export-as-markdown/hbojhdcnbcondcdfpfocpkjkfkbnbdad?utm_source=permalink)
 - [Gabriel](http://thiscouldbejd.github.io/Gabriel/) ([Extension](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff?utm_source=permalink); [GitHub repo](https://github.com/thiscouldbejd/Gabriel))
 - [gdocs2md](https://github.com/mangini/gdocs2md) (GitHub repo)
 - [sheetdown](https://github.com/jlord/sheetdown) (GitHub repo)
 
-If you need to work with both Google Sheets and Markdown files or CSV files there are a couple extensions that can help make the process easier:
+If you need to work with both Google Sheets and Markdown text files or CSV files, here are a couple extensions that can help make the process easier:
 
 - [Crop Sheet](https://chrome.google.com/webstore/detail/crop-sheet/aojcceglbipehndciapjedoomockgagl?utm_source=permalink)
 - [Markdown Table Maker](https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold?utm_source=permalink) ([GitHub repo](https://github.com/pffy/googledocs-addon-markdowntablefive))
 
 ## Questions or suggestions?
 
-I'll try to keep this up to date. If you have any comments or suggestions, please add an issue to [my GitHub repo](https://github.com/elipousson/elipousson.github.io) or just say hello [on Twitter](https://twitter.com/elipousson).
+I'll try to keep this updated if any of the links break or someone makes a useful new tool. If you have any comments or suggestions for this post, please add an issue to [my GitHub repo](https://github.com/elipousson/elipousson.github.io) or just say hello [on Twitter](https://twitter.com/elipousson).
 
 P.S. Here are some related things that look interesting but I don't know anything about them so can't really recommend them:
 
