@@ -63,11 +63,44 @@ Mail-order catalogues "cannot be studied apart from at least two other contexts"
 - the products they describe, i.e. mail-order _goods_
 - the processes that create them, i.e. mail-order _merchandising_
 
+Examples:
+
+- Baltimore Bargain House (Baltimore, Md ). Furniture Catalogue Season 1907-1908 / Baltimore Bargain House. The Company, 1907. http://archive.org/details/furniturecatalog00balt.
+- Decorators Supply Co. Illustrated Catalogue of Period Ornaments for Furniture. Decorators Supply Co., Chicago, Ill., 1924. http://archive.org/details/illustratedcatal00deco.
+- Henry Francis du Pont Winterthur Museum. Trade Catalogues at Winterthur : A Guide to the Literature of Merchandising, 1750 to 1980. Garland Pub., 1984. http://archive.org/details/tradecataloguesa00henr.
+- Macy’s (Firm). Catalogue No. 16, Spring/Summer / R. H. Macy & Co. R.H. Macy, New York, 1911. http://archive.org/details/catalogueno16spr00macy.
+- Montgomery Ward. Catalogue No. 13, Spring and Summer, 1875. Montgomery Ward, Chicago, 1875. http://archive.org/details/catalogueno13spr00mont.
+- Sears, Roebuck and Company. Catalog No. 124. Sears, Roebuck & Co., Chicago, 1912. http://archive.org/details/catalogno12400sear.
+- ———. Catalogue No. 112. Sears, Roebuck & Co., Chicago, 190AD. http://archive.org/details/catalogueno11200sear.
+- ———. Consumers Guide No. 107. Sears, Roebuck and Company. Chicago, Ill., 1898. http://archive.org/details/consumersguideno00sear.
+
+https://archive.org/details/winterthurlibrary?and[]=baltimore
+
 Two sections:
 
 - American studies
-- Material culture studies
 
+Material culture studies
+
+1. A reference work
+2. A graphics and advertising library
+3. A primer for artifact exercises
+4. A paperback museum
+5. A resource for assorted case studies
+
+As a reference work, a mail-order catalogue can answers questions:
+
+- How long were certain articles manufactured?
+- How did design and cost change over time?
+- How, and to what extent, were certain styles reflected in given classes of objects?
+
+Useful in establishing accurate and detailed design chronology for everyday objects.
+
+e.g. Pop Pedagogy: Looking at the Coke Bottle by Craig Gilborn (1968). Museum News, December 1968 – three part approach to looking at objects:
+
+- description
+- classification
+- and interpretation
 
 # Cartography
 
