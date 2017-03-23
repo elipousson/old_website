@@ -172,9 +172,9 @@ Students can **measure and record a building** "calculating and appraising its e
 
 See [Architectural drawing](https://en.wikipedia.org/wiki/Architectural_drawing); [Multiview orthographic projections](https://en.wikipedia.org/wiki/Multiview_orthographic_projection); [Cross section](https://en.wikipedia.org/wiki/Cross_section_(geometry)); or [Isometric projection](https://en.wikipedia.org/wiki/Isometric_projection) on Wikipedia. See also [Comparison of computer-aided design editors](https://en.wikipedia.org/wiki/Comparison_of_computer-aided_design_editors).
 
-Students are compelled to "see the structure as its builder(s) may have perceived its form, materials, and spaces." [Henry Glassie](https://en.wikipedia.org/wiki/Henry_Glassie) points out "empathy with the builder is a crucial focus of the folklorist approach to housing types... an extremely valuable perspective for evaluating any residence."
+When you measure and draw a building, you can "see the structure as its builder(s) may have perceived its form, materials, and spaces." [Henry Glassie](https://en.wikipedia.org/wiki/Henry_Glassie) points out "empathy with the builder is a crucial focus of the folklorist approach to housing types... an extremely valuable perspective for evaluating any residence."
 
-Floor plans or other drawings can then be compared or analyzed alongside drawings of other buildings in the same local area or region. See H.G. West's "A Change in Plans: Is the Modern House a Victorian Invention?" (_Landscape_, Winter 1952).
+You can compare or analyze floor plans or other drawings alongside drawings of other buildings in the same local area or region. See H.G. West's "A Change in Plans: Is the Modern House a Victorian Invention?" (_Landscape_, Winter 1952).
 
 ### 2. Interior Space Concepts (pp. 98 – 99)
 
