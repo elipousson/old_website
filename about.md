@@ -38,4 +38,5 @@ Lately, I’ve been busy working on [Baltimore’s Civil Rights Landmarks](http:
 This site is built with Jekyll using the Pixyll theme crafted by [John Otander](http://johnotander.com) ([@4lpine](https://twitter.com/4lpine)).
 
 ## Fine Print
+
 This is my personal Web site. The opinions expressed herein represent my own, and not those of any employer, group, or organization. All writing is published under a [Creative Commons Attribution license](https://creativecommons.org/licenses/by/3.0/us/). All code available on [GitHub](https://github.com/elipousson/elipousson.github.io) and distributed under the MIT license.
