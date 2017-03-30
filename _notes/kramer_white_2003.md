@@ -1,6 +1,12 @@
 ---
 title: Notes on White Sales from Enterprising Emporiums
 layout: page
+date: 2017-03-28
+modified: 2017-03-30
+---
+
+Kramer, Paul A. “White Sales: The Racial Policitcs of Baltimore’s Jewish-Owned Department Stores, 1935-1965.” In *Enterprising Emporiums: The Jewish Department Stores of Downtown Baltimore*, 37–65. The Jewish Museum of Maryland, 2003.
+
 ---
 
 1955 survey found 91% of 191 randomly-selected Baltimore businesses reported either the "exclusion" or "segregation" of blacks (p. 38)
@@ -70,3 +76,35 @@ But ... "most blacks and Jews related through a kind of intimate antagonism."
 > the social line between the Jewish middle class and the black middle class, each excluded from above, each pushing its way out of racial and clastic mess and restrictions, was likely to be volatile.
 
 Note: I'd be very interested in learning more about the broader history of Jewish anti-racism.
+
+
+
+February 1943: Civil Rights leader met with J.W. Mehling, Secretary of th Retail Merchants Association:
+
+> and placed before him a program of action which we hope will remove the unwritten policy of discrimination by some department stores in Baltimore.
+
+
+
+Note: On this issue, like many others, progress is intermittent; commitments to change policies are sometimes tenuous or limited.
+
+
+
+1955: "community self-survey" conducted by the Maryland Commission on Inter-racial Problems and Relations, two year old "citizen-action program" sponsored by "the leading civic, religious, and fraternal organizations of Baltimore"; a hesitant turn against segregation
+
+
+
+A woman wrote to the Hoschild Kohn's Department Store (in response to the store's decision to integrate restaurants and customer service in late March 1960) framing the Civil Rights issue as one of "consumer choice" (p. 54):
+
+> Do you realize that by so doing [integrating], you are taking from the White Race any choice they had of segregation or integration when dining outside of their homes?
+
+
+
+The essay continues (p. 55):
+
+> more than one of the racist critics wrote as self-conscious suburbanites, warning the downtown that integration would further provoke the flight of white residences and businesses. In the process, they revealed the extent to which the suburbs were imagined as racial islands still free of black "invasion": downtown segregation was the only remaining draw that could pull whites in from their comfortable, newly-designed racial enclaves.
+
+
+
+Department stores "profited from, and encouraged, the beginnings of white flight to the suburbs", e.g. Hutzler's stores in Towson (1952), Eastpoint (1956), Westview (1958); Hoschild Kohn's in Edmondson Village (1947).
+
+"Ten times as many letter in support of integration survive"; greater urgency because "civil rights supporters saw integration as frighteningly reversible."
