@@ -14,7 +14,7 @@ p. 155
 - late 1940s: Carl Murphy and Juanita Jackson Mitchell began pushing to desegregate Baltimore public schools
 - early 1950s: "small group of black leaders organized by Murphy and Mitchell began strategizing to push the school board to integrate as soon as the Court rules"
 - June 3, 1954: Baltimore school board, under leadership of new president Walter Sondheim, voted "unanimoiusly to end school segregation"
-- June 10, 1954: adopted policy proposal by Superintendent John FIscher to continue open-enrollment policy, "except that the race of the pupil shall not be a consideration"
+- June 10, 1954: adopted policy proposal by Superintendent John Fischer to continue open-enrollment policy, "except that the race of the pupil shall not be a consideration"
 
 
 
@@ -82,13 +82,13 @@ At December 1967 inauguration, D'Alesandro "pronounced Baltimore 'the city of ho
 
 *Note:* Baum includes a very concise and useful description of the unrest following the assasination of Martin Luther King (p. 159-160). I've noted a few key items here but may want to go back and look again.
 
-By Friday (p. 160):
+By Friday:
 
 - 5,512 people arrested (nearly all black – about 1 in every 75 black residents)
 - 12,000 troops occupied the city (1 for every 75 Baltimore residents)
 - 1,208 major fires
 - 1,049 businesses destroyed
-- 600 injuries (50 police officers); 6 people killed
+- 600 injuries (50 police officers); 6 people killed[@baum_how_2011, 160]
 
 [Spiro Agnew](https://en.wikipedia.org/wiki/Spiro_Agnew) invited 100 Baltimore black leaders (what he called "moderates" contrasting with the "circuit-riding, Hanoi-visiting type of leader") to meet with him on Thursday to charge them with "responsibility for the riots"; most walked out, some drafted an "angry rebuttal":
 
@@ -100,30 +100,28 @@ By separating "good" moderates from "bad" militants, Agnew sought to divide blac
 
 *Note:* The full text of Agnew's remarks appeared in the *Sun*. I think the full text of the response Baum references is in the *Afro*.
 
-White Baltimoreans and others sent hundreds of telegraphs to Agnew's office mostly praising his actions; one stated, "Thankful to hear that the white people still have a strong voice in government." (p. 161)
+White Baltimoreans and others sent hundreds of telegraphs to Agnew's office mostly praising his actions; one stated, "Thankful to hear that the white people still have a strong voice in government."[@baum_how_2011, 161]
 
 1968 ruling in *Green v. New Kent County*: "free choice had to produce results: it had to integrate schools to be constitutionally acceptable."
 
-After the city's "top legal officer" submitted a opinon calling Baltimore's school choice policy unconstitutional; Schaefer "had no interest in considering the Supreme Court decision and revisiting desegregation, because 'immediately the question of race comes in.'" (p. 162)
+After the city's "top legal officer" submitted a opinon calling Baltimore's school choice policy unconstitutional; Schaefer "had no interest in considering the Supreme Court decision and revisiting desegregation, because 'immediately the question of race comes in.'"[@baum_how_2011, 162]
 
-January 1970 incident (p. 163):
+January 1970 incident:
 
-> A white teacher at Eastern High School reportedly used a racial slur with a black student. Students protests, and someone called the police, who allegedly mistreated students and eventually arrested eight. Students were sent home, and many went to Baltimore City College High School, where students joined the protest and City was also closed.
-
-
+> A white teacher at Eastern High School reportedly used a racial slur with a black student. Students protests, and someone called the police, who allegedly mistreated students and eventually arrested eight. Students were sent home, and many went to Baltimore City College High School, where students joined the protest and City was also closed.[@baum_how_2011, 163]
 
 Note: Baum continues to describe the proposal for busing in 1974.
 
-White opposition to 1974 organized by the Southeast Desegregation Coalition (in part supported by the South East Community Organization?); then City Council member Barbara Mikulski wrote a letter to the editor of the *East Baltimore Guide*: "I am totally opposed to forced cross-town busing." (p. 164)
+White opposition to 1974 organized by the Southeast Desegregation Coalition (in part supported by the South East Community Organization?); then City Council member Barbara Mikulski wrote a letter to the editor of the *East Baltimore Guide*: "I am totally opposed to forced cross-town busing."[@baum_how_2011, 164]
 
-Edgar Jones, *Evening Sun* reporter contrasted 1974 with 1954 (p. 166):
+Edgar Jones, *Evening Sun* reporter contrasted 1974 with 1954:
 
-> In those days there was a fairly large reservoir of white goodwill toward Negroes. Many Baltimoreans knew that segregation was wrong and were willing to stand up for the School Board's efforts to eliminate it. ... The past few weeks have shown precious little evidence of white goodwill toward either blacks or the School Board... Except for a few neighborhoods trying to preserve some integration, Baltimore's white residents by and large are buttoned up in their own diminshing sectors...
+> In those days there was a fairly large reservoir of white goodwill toward Negroes. Many Baltimoreans knew that segregation was wrong and were willing to stand up for the School Board's efforts to eliminate it. ... The past few weeks have shown precious little evidence of white goodwill toward either blacks or the School Board... Except for a few neighborhoods trying to preserve some integration, Baltimore's white residents by and large are buttoned up in their own diminshing sectors...[@baum_how_2011, 166]
 
 Note: Baum continues to detail the Office of Civil Rights enforcement negotiation with Baltimore City and the threat of enforcement actions concluding with the loss of OCR's threat of sanctions against Baltimore City schools in 1978.
 
-"The school board, whose lawyers had told the court the city just wanted room to desegregated in ways suited to local conditions, did nothing further to desegregation..." By 1982, "the board valued peace above much else, including desegregation. No one ever sued the school board to do more to desegregated. Baltimore stood out from most Southern districts and many big cities in this respect." (p. 170)
+"The school board, whose lawyers had told the court the city just wanted room to desegregated in ways suited to local conditions, did nothing further to desegregation..." By 1982, "the board valued peace above much else, including desegregation. No one ever sued the school board to do more to desegregated. Baltimore stood out from most Southern districts and many big cities in this respect."[@baum_how_2011, 170]
 
 The "riots" did not cause the changes to school desegregation efforts "as catalyze and punctuate shifts already taking place" (p. 171)
 
-After 1954, the "open-enrollment policy probably added to racial anxiety... Parents could not know what a school's makeup would be when classes started.... This uncertainty not only added to anxiety but also made leaving city public schools a choice with a more predictable outcome."
+After 1954, the "open-enrollment policy probably added to racial anxiety... Parents could not know what a school's makeup would be when classes started.... This uncertainty not only added to anxiety but also made leaving city public schools a choice with a more predictable outcome." (p. 172)
