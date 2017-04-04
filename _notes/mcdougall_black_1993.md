@@ -3,6 +3,8 @@ title: "Notes on Black Baltimore (1993)"
 layout: page
 ---
 
+  McDougall, Harold. *Black Baltimore: A New Theory of Community*. Temple University Press, 1993.
+
 Dr. A.K. Warner of Chicago (McDougall, p. 47 citing Power) provided advice to Mayor on "tactics" for:
 
 > public officials and civic leaders sought to maintain housing segregation through official and unofficial pressure on white owners not to rent or sell to blacks, and through slum clearance measures.
@@ -60,13 +62,11 @@ William Murphy, Sr. (interview with McDougall):
 
 > Upton just burst at the seams. It used to be a delightful neighborhood, achievers in every area. Good conduct, participation the church life, community uplift, great contacts. Even when times were hard during the depression the people were good. People left their doors open ,they reported parents when kids miss behaved every child with everyone's child. These were the things that made Upton what it was.
 
-
-
 p. 56
 
 - 1956: BHA and the Baltimore Redevelopment Commission merged to create the Baltimore Urban Renewal and Housing Agency (BURHA)
-- 1972: funds for the Upton project approved by federal government
-- 1973 (McDougall says 1972): Nixon established a "moratorium on disbursements of federal money for such projects" (Source: This [history of HUD timeline](https://portal.hud.gov/hudportal/HUD?src=/about/hud_history) which also jumps from 1937 to 1965 without a single event in between!)
+- 1972: funds for the Upton project approved by federal government[@mcdougall_black_1993, 56]
+- 1973 (McDougall says 1972): Nixon established a "moratorium on disbursements of federal money for such projects"[@mcdougall_black_1993, 56] (Source: This [history of HUD timeline](https://portal.hud.gov/hudportal/HUD?src=/about/hud_history) which also jumps from 1937 to 1965 without a single event in between!)
 
 
 
@@ -85,13 +85,9 @@ Baltimore Committee for Political Freedom "formed because of fear that the local
 
 1974: revealed that [Donald Pommerlau](https://en.wikipedia.org/wiki/Donald_Pomerleau) "had secretly compiled dossiers on people he considered subversive" (including Parren Mitchell, Rev. Marion Bascom, and other members of the Interfaith Ministerial Alliance)
 
+Paul Coates on the Black Panther Party in Baltimore (early 1969 to late 1972):
 
-
-Paul Coates on the Black Panther Paty in Baltimore (early 1969 to late 1972) (p. 59):
-
-> I thought that the party was doing things that would have an impact on the lives of black people. It seemed like a good vehicle. When I came in, I had only a limited basis for understanding the world. I just knew it was fucked up. But I had no perspective, no point of view. No process for sorting out the significance of the things I was seeing and experiencing, no process for validating my views against those of other people. In the party I began to develop my own system of political understanding. The party had a structure in place to encourage political education. He provided a setting where I could interact with people who are searching for answers, and with some who thought they knew the answers.
-
-
+> I thought that the party was doing things that would have an impact on the lives of black people. It seemed like a good vehicle. When I came in, I had only a limited basis for understanding the world. I just knew it was fucked up. But I had no perspective, no point of view. No process for sorting out the significance of the things I was seeing and experiencing, no process for validating my views against those of other people. In the party I began to develop my own system of political understanding. The party had a structure in place to encourage political education. He provided a setting where I could interact with people who are searching for answers, and with some who thought they knew the answers.[@mcdougall_black_1993, 59]
 
 Rev. Vernon Dobson criticized the BPP as a "reactive organization" (p. 60) citing the need for an "institution that has a history" continuing (p. 61):
 
