@@ -1,6 +1,7 @@
 ---
-title: Baltimore Code Enforcement Guide from Strong City Baltimore and Baltimore Housing
+title: "Baltimore Code Enforcement Guide from Strong City Baltimore and Baltimore Housing"
 layout: page
+date: 2016-08-20
 ---
 
 Baltimore Code Enforcement
@@ -32,6 +33,8 @@ What should I do if I suspect work is being done in my neighborhood without a pe
 To check whether a permit exists on a specific property, visit our “Existing Permit Search”. You may anonymously report suspected unpermitted work by calling 311 or by submitting a request online after performing your search. One of our inspectors will follow-up on your request by visiting the worksite and determining whether an appropriate permit has been issued.
 
 Source: [Permit Handbook](http://static.baltimorehousing.org/pdf/permit_handbook.pdf)
+
+---
 
 [Building, Fire, and Related Codes of Baltimore City - 2015 Edition](http://legislativereference.baltimorecity.gov/sites/default/files/Art%2000%20-%20Bldg,%20Fire.pdf)
 

@@ -4,8 +4,6 @@ date: 2017-03-31
 modified: 2017-04-01
 ---
 
-
-
 ## Introduction
 
 > Perhaps if we learn more of what has happened and why it happened, we'll learn more of who we really are.. And perhaps if we learn more about our unwritten history, we won't be so vulnerable to the capriciousness of events as we are today. ...
