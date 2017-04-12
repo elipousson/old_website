@@ -116,8 +116,34 @@ gems:
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
 
+
 # Collections
 collections:
   notes:
     output: true
     permalink: /notes/:path/
+  sources:
+    output: true
+    permalink: /source/:path/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: page
+  # _sources
+  - scope:
+      path: ""
+      type: sources
+    values:
+      layout: page
