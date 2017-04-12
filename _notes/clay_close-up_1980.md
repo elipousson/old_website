@@ -1,5 +1,8 @@
-Grady Clay, Close-Up: How to Read the American City
-
+---
+title: "Notes on Grady Clay, Close-Up: How to Read the American City"
+layout: page
+date: 2017-03-23
+---
 
 ## Wordgame
 

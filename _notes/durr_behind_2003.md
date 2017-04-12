@@ -1,6 +1,7 @@
 ---
 title: "Notes on Behind the Backlash (2003)"
 layout: page
+date: 2017-03-28
 ---
 
 - 1881: Thirty-nine manufacturers in Baltimore

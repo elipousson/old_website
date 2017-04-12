@@ -1,13 +1,17 @@
 ---
 title: Notes on Artifacts and the American Past
 layout: page
+date: 2017-02-16
+modified: 2017-02-17
 ---
 
-Schlereth, Thomas J. Artifacts and the American Past. 2nd Printing edition. Nashville, Tenn: Amer Assn for State & Local, 1981.
+Schlereth, Thomas J. Artifacts and the American Past. Nashville, Tenn: American Association for State and Local History, 1980.
 
 ![Artifacts and the American Past (cover)]({{ site.baseurl }}/assets/images/artifacts-american-past-cover.jpg)
 
 **Note – 2017 February 16**: While the extensive bibliographical resources in this book may be a bit dated, the broader framework for promoting historical inquiry of material culture (especially the built environment) and the suggestions for student projects are relevant and useful. I've put together these notes as a resource for my own teaching and for any other learners or educators who might find it helpful. This is a work-in-progress—I've reviewed the introduction and the fourth chapter on historic house museums in detail but have not yet taken any notes on the other sections of the book.
+
+---
 
 > "Artifacts and useful objects are part of all recorded history. They are devised, invented, and made as adjuncts to the human being's ability to accomplish work or enjoy pleasure. A close examination of any object is a graphic description of the level of intelligence, manual dexterity, and artistic comprehension of the civilization that produced it. You can reflect as well the climate, religious beliefs, form of government, the natural materials at hand, the structure of commerce, and the extent of man's scientific and emotional sophistication.
 > — R. Latham, "The Artifact as Cultural Cipher," in _Who Designs America?_
