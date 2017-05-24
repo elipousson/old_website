@@ -3,6 +3,7 @@ layout: post
 title: Making the switch from G Suite apps to Markdown
 summary: "I have used Markdown and G Suite apps for research, writing, and publishing for a couple years. Here are a few things I've learned along the way!"
 date: 2017-02-17
+modified: 2017-05-24
 categories: opensource
 ---
 
@@ -20,27 +21,29 @@ Start by taking a look at [Atom](https://atom.io/). Atom can edit Markdown text 
 
 There are many packages [created for working with Markdown](https://atom.io/packages/search?utf8=%E2%9C%93&q=keyword:markdown) but a few favorites include:
 
- - [markdown-deluxe](https://atom.io/packages/markdown-deluxe)
- - [markdown-folder](https://atom.io/packages/markdown-folder)
- - [markdown-scroll-sync](https://atom.io/packages/markdown-scroll-sync)
- - [markdown-toc](https://atom.io/packages/markdown-toc)
- - [markdown-writer](https://atom.io/packages/markdown-writer)
- - [tool-bar-markdown-writer](https://atom.io/packages/tool-bar-markdown-writer)
- - [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus)
- - [language-markdown](https://atom.io/packages/language-markdown)
+- [markdown-deluxe](https://atom.io/packages/markdown-deluxe)
+- [markdown-folder](https://atom.io/packages/markdown-folder)
+- [markdown-scroll-sync](https://atom.io/packages/markdown-scroll-sync)
+- [markdown-toc](https://atom.io/packages/markdown-toc)
+- [markdown-writer](https://atom.io/packages/markdown-writer)
+- [tool-bar-markdown-writer](https://atom.io/packages/tool-bar-markdown-writer)
+- [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus)
+- [language-markdown](https://atom.io/packages/language-markdown)
 
 I'd also recommend a few other packages that can improve the overall writing experience in Atom:
 
- - [linter-write-good](https://atom.io/packages/linter-write-good)
- - [linter-alex](https://atom.io/packages/linter-alex)
- - [zotero-citations](https://atom.io/packages/zotero-citations)
- - [status-stats-jbrains](https://atom.io/packages/status-stats-jbrains)
+- [linter-write-good](https://atom.io/packages/linter-write-good)
+- [linter-alex](https://atom.io/packages/linter-alex)
+- [zotero-citations](https://atom.io/packages/zotero-citations)
+- [status-stats-jbrains](https://atom.io/packages/status-stats-jbrains)
 
 There are also several [Markdown friendly themes](https://atom.io/themes/search?utf8=%E2%9C%93&q=keyword:markdown) for Atom but [Pen Paper Coffee](https://atom.io/themes/pen-paper-coffee-syntax) is the most popular.
 
 ### Other Markdown-friendly text editors
 
 In addition to Atom, I regularly use [Ulysses](https://ulyssesapp.com/). I also occasionally use [Pandoc](http://pandoc.org) and [Marked 2](http://marked2app.com/). My experience using Pandoc is limited so, if you're interested in learning more, I recommend reading [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) (a [Programming Historian](http://programminghistorian.org/) tutorial by Dennis Tenen and Grant Wythoff). Again, there are [several Atom packages](https://atom.io/packages/search?q=pandoc) created to work with Pandoc.
+
+**Update:** I'm currently using [Typora](https://typora.io/) to do most of my writing and editing in Markdown. My current favorite but I still use Atom as well!
 
 Wikipedia provides an [extensive comparison of text editors](https://en.wikipedia.org/wiki/Comparison_of_text_editors) (which include several editors designed for use with Markdown). Some tools allow you to edit Markdown files but other tools specialize in converting Markdown files into other formats (e.g. Word Document or PDF).
 
