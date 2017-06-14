@@ -1,5 +1,5 @@
 ---
-title: "Baltimore's Alley Houses: Homes for Working People ince the 1780s"
+title: "Baltimore's Alley Houses: Homes for Working People Since the 1780s"
 year: 2008
 author: "Mary Ellen Hayward"
 publisher: "Johns Hopkins University Press"
@@ -40,7 +40,7 @@ Harvard-educated black physician wrote in *North Star* in 1849:
 
 p. 54
 
-"Methodist  ministers denounced slavery from the pulpit and proclaimed it a 'great evil' at the 1796 General Conference held in Baltimore. The fact that a well-known black orator, 'Black Harry' Hosier, traveled and preached with such early Methodist leaders as Francis Asbury and Thomas Coke attracted many slaves and free blacks to the new faith. ... By 1800, black worshippers accounted for more than 35 percent of the city's Methodists; by 1815 their numbers had risen to half of all congregants."
+"Methodist  ministers denounced slavery from the pulpit and proclaimed it a 'great evil' at the 1796 General Conference held in Baltimore. The fact that a well-known black orator, ['Black Harry' Hosier](https://en.wikipedia.org/wiki/Harry_Hosier), traveled and preached with such early Methodist leaders as Francis Asbury and Thomas Coke attracted many slaves and free blacks to the new faith. ... By 1800, black worshippers accounted for more than 35 percent of the city's Methodists; by 1815 their numbers had risen to half of all congregants."
 
 p. 56-57
 
@@ -80,7 +80,7 @@ p. 183-184
 *Addition to timeline of Methodist churches*:
 
 - 1827: Truman Pratt begins to hold prayer meetings in house at Biddle Street near Ross (now Druid Hill Avenue)
-- 1837: First small church built on Orchard Street, named Orchard Street Methodist Episcopal Church; expanded in 1853
+- 1837: First small church built on Orchard Street, named [Orchard Street Methodist Episcopal Church](https://en.wikipedia.org/wiki/Orchard_Street_United_Methodist_Church); expanded in 1853
 
 *Addition to Episcopal timeline*:
 
@@ -88,7 +88,7 @@ p. 183-184
 
 p. 190
 
-Description of St. Francis Xavier and other churches from the 1840s and 1850s
+Description of [St. Francis Xavier](https://en.wikipedia.org/wiki/St._Francis_Xavier_Church_(Baltimore,_Maryland)) and other churches from the 1840s and 1850s
 
  p. 195-1998
 
@@ -96,4 +96,30 @@ Description of Old Town
 
 p. 201
 
-On political tactics of "Know-Nothings" and the American Party: "Baltimoreans elected a Know-Nothing mayor in 1855, and Know-Nothings gained power in the state legislature and won four congressional seats. A year later Maryland was the only state to support Know-Nothing presidential candidate Millard Fillmore in the election of 1856."
+On political tactics of ["Know-Nothings"](https://en.wikipedia.org/wiki/Know_Nothing) and the American Party: "Baltimoreans elected a Know-Nothing mayor in 1855, and Know-Nothings gained power in the state legislature and won four congressional seats. A year later Maryland was the only state to support Know-Nothing presidential candidate [Millard Fillmore](https://en.wikipedia.org/wiki/Millard_Fillmore) in the election of 1856."
+
+p. 208
+
+"After the B&O opened its passenger and freight terminals at [Camden Yards](https://en.wikipedia.org/wiki/Camden_Station) in 1856... the wide sets of tracks extending south between Howard and Eutaw Streets forever separated the community to their west from those residing nearer to the Light Street steamboat wharves."
+
+p. 209-210
+
+Helpful description of the history of the Centenary Biblical Institute of the Methodist Episcopal Church (established 1867) and the 1881 building at Edmondson Avenue on land donated by Rev. John F. Goucher.
+
+p. 211
+
+1208 Druid Hill Avenue, residence of William Fitzgerald, "specialized in real estate law and ran the 'House of Fitzgerald,' emblazoned in gilt letters over the door of his stylish three-story Italianate house, a real estate agency that helped blacks find properties to buy or rent."
+
+p. 228
+
+Description of Kemp's study in 1907:
+
+"As soon as she completed her study, Kemp presented her findings in a program sponsored by Federated Charities, held at Johns Hopkins University's McCoy Hall in October 1907. Sje illustrated the talk with fifty 'lantern slides,' which presented scenes of unimaginable horror to the well-bred attendees."
+
+p. 233
+
+"Federated Charities immediately called for fifteen amendments to the city housing code to remedy the dire situation."
+
+p. 239-240
+
+Description of "protective" associations in the early 1920s.
