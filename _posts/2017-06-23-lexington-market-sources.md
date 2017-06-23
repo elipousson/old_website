@@ -2,7 +2,7 @@
 layout:     post
 title: "Lexington Market: A Collection of Sources"
 date: 2017-06-23
-category: research
+category: bibliography
 ---
 
 *This collection of sources related to Lexington Market is based solely on the ProQuest Historical Newspapers database for the Baltimore Sun. Additional research should include the Afro-American, the Baltimore City Archives, and the Maryland State Archives.*
