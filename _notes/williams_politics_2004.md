@@ -5,6 +5,10 @@ author: "Rhonda Y. Williams"
 modified: 2017-06-14
 ---
 
+p. 101
+
+Discussion on displacement in East Baltimore, Waverly, and the State Center area.
+
 p. 194
 
 July 1966, Afro American newspaper writes that Mothers Rescuers "statements and activism symbolized":
