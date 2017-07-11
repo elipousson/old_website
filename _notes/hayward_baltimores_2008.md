@@ -12,8 +12,6 @@ p. 12
 
 > Baltimore is essentially a home town. ...
 
-
-
 p. 29
 
 "Several factors were working together to bring so many free blacks to the city. Maryland's agricultural economy was gradually changing from the growing of labor-intensive tobacco to the less demanding cultivation of wheat. More and more Maryland farmers found it an econmic burden to maintain large families of slaves and many, like the Lloyd family, sent slaves elsewhere to work for wages. Others, influenced by the vocal abolitionist messages of the state's Quakers and Methodists, decided on long-term manumissions instead of selling slaves south."

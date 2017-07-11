@@ -23,13 +23,13 @@ p. 198
 
 "The uprisings revealed poor people's frustration and fear and their desires to attack exploitation and obtain consumer goods."
 
-February 1968, Walter Lively warned "whire decisions markets that they had to":
+February 1968, Walter Lively warned "white decisions makers that they had to":
 
 > give colored citizens a stake in what America is before ghetto dwellers could see a chance to accomplish their goals without violence.
 
 Lively, "in the midst of the rebellions... argued that the 'completely spontaneous' urban uprisings indicated"
 
-> that an overwhelming portion of the black community of this city do not want the white man to contiue his economic colonization of our people.
+> that an overwhelming portion of the black community of this city do not want the white man to continue his economic colonization of our people.
 
 p. 198-199
 
@@ -61,7 +61,7 @@ p. 216-217
 
 1967 Riverside speech, MLK, Jr.:
 
-> [the] real promise of hope for the poor—both black and white—thrugh the poverty program [was] eviscerated as if it were some plaything of a society gone made on way.
+> [the] real promise of hope for the poor—both black and white—through the poverty program. [was] program broken and eviscerated, as if it were some idle political plaything of a society gone mad on war
 
 p. 218-219
 
