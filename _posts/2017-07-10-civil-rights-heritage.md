@@ -8,7 +8,7 @@ categories: research
 
 *Our project on Baltimore's Civil Rights Heritage is supported by the Maryland Historical Trust, the National Park Service, and PNC. This post is a draft of an essay recorded for Humanities Connection on WYPR in 2017.*
 
-The history of African Americans in the United States is the history of an ongoing fight for freedom. It is easy to forget that the Civil Rights movement did not begin in the basement of the Dexter Avenue Baptist Church where Martin Luther King, Jr. and others organized the Montgomery Bus Boycott in 1955. It is easy to forget that the movement did not end in 1968 on a balcony of the Lorraine Motel in Memphis, Tennessee. It is easy to forget but, as Baltimore’s own Frederick Douglass reminded his audience in 1884:
+It is easy to forget that the Civil Rights movement did not begin in the basement of the Dexter Avenue Baptist Church where Martin Luther King, Jr. and others organized the Montgomery Bus Boycott in 1955. It is easy to forget that the movement did not end in 1968 on a balcony of the Lorraine Motel in Memphis, Tennessee. It is easy to forget but, as Baltimore’s own Frederick Douglass reminded his audience in 1884:
 
 > "It is not well to forget the past. Memory was given to man for some wise purpose. The past is the mirror in which we may discern the dim outlines of the future."
 
