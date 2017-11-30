@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The politics of 'tear it down'"
-summary: "Writing about the meaning and polictics of demolition in Baltimore for the Vernacular Architectural Forum."
+summary: "Writing about the meaning and politics of demolition in Baltimore for the Vernacular Architectural Forum."
 date: 2017-11-30
 categories: research
 ---
 
-This spring, I'll be presenting a paper at the 2018 Vernacular Architectural Forum on the history and politics of demolition in Baltimore. My presentation is part of a panel, "Erasure in the Urban Vernacular Landscape," with Susan Garfinkel, David Rotenstein, and Aaron Wunsch.
+This spring, I'll be presenting a paper at the 2018 Vernacular Architectural Forum on the meaning, history, and politics of demolition in Baltimore. My presentation is part of a panel, "Erasure in the Urban Vernacular Landscape," with Susan Garfinkel, David Rotenstein, and Aaron Wunsch.
 
 I've already done some research and writing on demolition for Project CORE (see my posts for Baltimore Heritage on the [2016](https://baltimoreheritage.org/preservation/project-core-mean-baltimores-historic-neighborhoods/) and [2017 demolition review process](https://baltimoreheritage.org/preservation/project-core-shares-plan-demolition-149-vacant-buildings-2017/)). With this paper, I'm hoping to look closer at the recent history of demolition in Baltimore (from the 1970s through the 2000s), conduct a few interviews with residents and policy-makers, and get a better understanding of the neighborhood and urban politics of demolition. If you're a Baltimore resident and you are interested in talking about your experiences with demolition, please get in touch by email or on Twitter! I'm also sharing project photos on Instagram using the hashtage [#baltimoredemolition](https://www.instagram.com/explore/tags/baltimoredemolition/). Read on for my abstract and I'll try to share updates as I put together a draft over the next few months.
 
