@@ -14,7 +14,7 @@ For instance: One evening after work I was standing in Mount Vernon place talkin
 
 It is a known fact that homosexual people frequent Mount Vernon place. This particular officer evidently took me to be one. And yet I am a truck driver and look nothing of the sort. I live in the Mount Vernon section and have observed that the police tend to abuse the people around the park and the vice squad ride around in cars and try to get someone to solicit them, so that they can put him in jail.
 
-Where are these same polioe, either in uniform or plainclothes, when a crime is being committed? Baltimore’s crime rate is high and still on the rise. This alone could be prevented if the police would concentrate more on catching criminals.
+Where are these same police, either in uniform or plainclothes, when a crime is being committed? Baltimore’s crime rate is high and still on the rise. This alone could be prevented if the police would concentrate more on catching criminals.
 
 Is our police commissioner so blind that he can’t possibly see what the men under him are doing on the streets?
 
