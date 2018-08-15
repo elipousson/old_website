@@ -31,9 +31,22 @@ p. 435
 *Captioned photo: Confederate veteran McHenry Howard oversaw membership. The society's*
 *officers approved all membership applications, well into the twentieth century. (Maryland Historical Society.)* 
 
+p. 441
+
+The centennial year also stands in local history as the year the new Johns Hopkins University opened in Baltimore, the first modern graduate school in the country. Among the educational guidelines was the directive that the university be situated in an area where students and faculty could have access to the city's libraries and institutions. The university's first home, on Howard Street, two blocks south of where Maryland General Hospital stands today, accommodated a handful of students. Founded on the European seminar system with studies based on original research, Hopkins's faculty took students to local institutions, among them the Maryland Historical Society. Within the first few years the university announced classes "for practical training in the use of colonial laws, archives, and the documentary history of the older states of the American union. The classes will meet in the library of the Maryland Historical Society."
+
+This cordial alliance allowed university students the use of the library and collections and in turn, Hopkins men read their papers at the monthly meetings. The historical society gained a new base of support and the university a forum for its research. Herbert Baxter Adams, first professor of history, whose students needed the "specimens" of the past for their "scientific investigations," became an advocate for record preservation and free public access to state documents. Librar- ian John W. M. Lee reported to the Library Committee that university students used the society's collections and noted that university president Daniel Coit Gilman had expressed his thanks for the society's "generosity to . . . students and
+31 open access to them of its collections."
+
+
+
 p. 471
 
 > The society survived the Great Depression, albeit with abbreviated offerings to members and friends. They opened their doors to the public for fewer hours each day in an effort to provide maximum service with minimal staff and to save on operating costs. Among the limited number of events, in the spring of 1938 the president of the United Daughters of the Confederacy presented the society with two engravings, one of General Robert E. Lee, the other of Jefferson Davis, "to be placed in the Confederate Room," a perpetuation of the leadership's southern heritage and identity that continued well into the middle years of the twentieth century. Winners of the UDC's historical essay contest received copies of the engravings. This same year, Louis H. Dielman retired as editor of the Maryland Historical Magazine after twenty-eight years at its helm. Committee on Publications member Jacob Hall Pleasants wrote that in the face of shrinking appropriations for publications, Deilman had "in one way or another, with a sort of editorial wizard's wand, been able year after year to fill its pages with papers of interest and value."
+
+p. 475-477
+
+> Education ranked as a high priority, and the post-war Maryland Historical Society reached out to the city's public schools. In 1945 the group hosted a meeting of educators and members of patriotic societies to discuss how to place more emphasis on state history in the curriculum. Out of this gathering came the Committee on Maryland History in the Schools. The following year, working with Baltimore's public schools, the society brought in children for tours. Members gave talks at school assemblies, developed classroom materials, and offered train- ing sessions at teacher workshops. The society provided materials such as maps, pamphlets, and color slides in addition to publishing jointly with the public schools and the Enoch Pratt Free Library the Wheeler Leaflets in Maryland History, a series of teaching aids that addressed a variety of Maryland history topics.
 
 p. 480
 
@@ -51,4 +64,27 @@ p. 486
 
 ["A Quarter Century of Growth at the Maryland Historical Society"](http://msa.maryland.gov/megafile/msa/speccol/sc5800/sc5881/000001/000000/000237/pdf/msa_sc_5881_1_237.pdf), Harold R. Manakee, p. 56-92, *Maryland Historical Magazine*
 
+p. 64
+
+> Beginning in 1946, cooperation with the Baltimore Public Schools increasingly was emphasized, and visits by groups of students were encouraged.
+
+p. 75
+
 > Another important contribution of 1962 was that of Mr. Ernest A. Howard, historian of the Cecil County Historical Society, in the amount of $10,000 to establish in the Thomas and Hugg Memorial Building a Civil War Union Room. The gift will provide an admirable complement to the long-maintained Confederate Room.
+
+p. 80-81
+
+>In March, 1945, the Society was host at a meeting of outstand- ing educators and members of patriotic societies for the purpose of discussing means of providing more emphasis on Maryland history in the schools. One result o£ this meeting was the for- mation of a Committee on Maryland History in the Schools, originally consisting of school, patriotic society and historical society representatives, but since resolved to an executive com- mittee, consisting of Dr. Harry Bard, now president of the Baltimore Junior College, and Mr. Manakee as the representa- tive of the Society.
+>
+>Another result of the meeting was the transfer to the Society of the publication of the series of Wheeler Leaflets previously described.
+>
+>Through the stimulation of this committee, as well as the Society's own Committee on Education, created in 1947, cooperation between the Society and the schools has grown to sub- stantial proportions. Beginning in 1951 conducted tours of pupils actively have been encouraged, with results shown in the appended table of visitors to the Society which includes the annual number of student visitors from 1957 to the present. Previous to 1957 only estimates are available.
+>
+>It is a matter of record that the tour statistics do not indicate all student visits. School holidays often find family groups, guided by a youngster who has been a member of a conducted tour, making an enthusiastic round of the exhibits.
+>
+>While the sales of leaflets, books, maps, pamphlets, colored slides and post cards to students, teachers and school systems result in a modest but steady revenue, the Society's satisfaction in this program lies in the interest aroused among young people in the history of their state.
+>In addition to conducting tours, staff members frequently give talks at school assemblies, at parent-teacher meetings, on radio and television programs designed for classroom use, and to teacher work-shop groups. On occasion, members of the staff have participated in curriculum planning, and one member several times has taught college level courses in Maryland history.
+
+p. 91 includes tables for "Subjects of Evening Meeting Addresses 1938 to 1964" and "Subjects of Afternoon Lectures 1944 to 1964"
+
+p. 92 includes tables for "Visitors and Patrons 1938 to 1964" and "Record of Membership 1938 to 1964"
