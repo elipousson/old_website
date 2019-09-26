@@ -5,33 +5,19 @@ permalink: /about/
 tags:  about
 ---
 
-Hello! My name is Eli Pousson. I am a historic preservation advocate and local historian in Baltimore, Maryland. I work for [Baltimore Heritage](http://baltimoreheritage.org), occasionally blog at [Historic Sprawl](https://historicsprawl.wordpress.com/), collect references [on Zotero](https://www.zotero.org/elipousson), and share photographs [on Flickr](http://flickr.com/photos/baltimoreheritage/). I also tweet [@elipousson](http://twitter.com/elipousson).
+Hello! My name is Eli Pousson. I am a graduate student in public health at Johns Hopkins University, a Bloomberg Fellow with [Baltimore Heritage](http://baltimoreheritage.org), and local historian in Baltimore, Maryland.
 
-This site is a personal collection of research notes, projects, and presentations. I'm interested in historic preservation, open-source technology, networked nonprofits, social justice organizing, racial justice, public parks, community archives and sustainable transportation.
+---
 
-I volunteer as a board member of the [Rainbow Heritage Network](https://www.facebook.com/groups/439557382858786/), [Preservation Rightsizing Network](http://rightsizeplace.org), [Friends of Maryland's Olmsted Parks & Landscapes](http://olmstedmaryland.org), [Lakeland Community Heritage Project](http://lakelandchp.com/) and as an occasional organizer for the [Baltimore Family Bike Party](https://baltimorefamilybikeparty.wordpress.com).
+You can find some of my writing at [Historic Sprawl](https://historicsprawl.wordpress.com/), references [on Zotero](https://www.zotero.org/elipousson), and photographs [on Flickr](http://flickr.com/photos/baltimoreheritage/). I also tweet [@elipousson](http://twitter.com/elipousson) all about [311 and city services](https://twitter.com/hashtag/baltimore311), [picking up litter](https://twitter.com/hashtag/riseandpickuplitter), [vacant buildings](https://twitter.com/hashtag/vacants101), the [maintenance of civic spaces](https://twitter.com/hashtag/maintaincivicspaces), [family biking](https://twitter.com/hashtag/bikemorefamily), and [local history](https://twitter.com/hashtag/bmorehistoric).
 
-Lately, I’ve been busy working on [Baltimore’s Civil Rights Landmarks](http://baltimoreheritage.github.io/civil-rights-heritage/), [Explore Baltimore Heritage](http://explore.baltimoreheritage.org), and a new [digital collections site for Baltimore Heritage](http://collection.baltimoreheritage.org).
+This website is a personal collection of research notes, projects, and presentations. I'm interested in historic preservation, open-source technology, networked nonprofits, social justice organizing, racial justice, public parks, community archives and sustainable transportation.
 
-## Resume
+Here are a few things I've worked on:
 
-{% include resume.html %}
-
-## Tools I Use (Often)
-
-- MacBook Air
-- [iTerm2](https://www.iterm2.com/)
-- [Atom](https://atom.io/)
-- [Ulysses](http://ulyssesapp.com)
-- [GitHub Desktop](https://desktop.github.com/)
-- [WordPress](https://wordpress.org/)
-- [CiviCRM](https://civicrm.org/)
-
-## Tools I Use (Sometimes)
-
-- [OpenRefine](http://openrefine.org/)
-- [TaleBlazer](http://taleblazer.org)
-- [Twine](http://twinery.org/)
+- [Explore Baltimore Heritage](http://explore.baltimoreheritage.org)
+- [Baltimore’s Civil Rights Landmarks](http://baltimoreheritage.github.io/civil-rights-heritage/)
+- [Baltimore Family Bike Party](https://baltimorefamilybikeparty.wordpress.com)
 
 ## About this site
 
